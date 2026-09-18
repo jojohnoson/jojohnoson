@@ -203,7 +203,7 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
           <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
         </a>
         &nbsp;
-        <a href="https://github.com/jojohnoson/Event-Register-App" target="_blank">
+        <a href="https://eventhubmanagementapp.vercel.app/events" target="_blank">
           <img src="https://img.shields.io/badge/Live_Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Deployment" />
         </a>
       </p>
