@@ -23,9 +23,6 @@
     <a href="https://hub.docker.com/repositories/joeljxhnson" target="_blank">
       <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" />
     </a>
-    <a href="https://leetcode.com/jojohnoson" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
   </p>
 
   <p align="center">
@@ -117,7 +114,6 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
       <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white" alt="CloudWatch" />
-      <img src="https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white" alt="Packer" />
       <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" alt="Maven" />
     </td>
   </tr>
@@ -128,7 +124,6 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
       <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
@@ -142,7 +137,6 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
     </td>
@@ -276,7 +270,6 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
 | 🌐 | **Cloud Computing Certification** | NPTEL | [**View Certificate**](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs118/Course/NPTEL24CS118S15240234804069928.pdf) |
 | 🔌 | **Computer Networking** | CISCO | [**View Credential**](https://www.linkedin.com/posts/joejohnson25_cisco-networking-careergrowth-activity-7219338029851717632-fWts?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD94cbUBd_JDlWggYfjL38ni6NPTo80GIfc) |
 | 💻 | **Full-Stack Web Development** | Internshala | [**View Credential**](https://www.linkedin.com/posts/joejohnson25_webdevelopment-internship-careergrowth-activity-7219336917622960128-5d4I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD94cbUBd_JDlWggYfjL38ni6NPTo80GIfc) |
-| 🐧 | **Linux System Administration** | Linux Foundation | — |
 | 📄 | **Endoscopic Image-Based Deep Learning Approach for Predicting Gastrointestinal Diseases** | **IEEE (2025)**<br/>*Joel Johnson BV & Martin Victor K* | [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/11382902) |
 
 </div>
@@ -289,10 +282,10 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jojohnoson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Joel's GitHub Stats" width="400" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jojohnoson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Joel's GitHub Stats" width="400" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojohnoson&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="350" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jojohnoson&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="350" />
       </td>
     </tr>
     <tr>
@@ -325,10 +318,6 @@ I am actively open for **Associate Cloud Engineer**, **Junior DevOps Engineer**,
   &nbsp;
   <a href="https://hub.docker.com/repositories/joeljxhnson" target="_blank">
     <img src="https://img.shields.io/badge/Docker_Hub-Repositories-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/jojohnoson" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 
 </div>
