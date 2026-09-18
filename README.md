@@ -11,7 +11,7 @@
 
   <!-- Contact & Action Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/joel-johnson" target="_blank">
+    <a href="https://www.linkedin.com/in/joejohnson25/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://welcometotheportfolio.vercel.app/" target="_blank">
@@ -311,7 +311,7 @@ I am actively open for **Associate Cloud Engineer**, **Junior DevOps Engineer**,
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/joel-johnson" target="_blank">
+  <a href="https://www.linkedin.com/in/joejohnson25/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
