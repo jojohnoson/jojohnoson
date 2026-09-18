@@ -184,6 +184,38 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
   </tr>
 </table>
 
+<br/>
+
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🎟️ Event Register App (Cloud-Native Event Management Platform)</h3>
+      <p>
+        Full-stack modern <strong>Event Registration & Ticketing Platform</strong> built with <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Docker</strong> — enabling users to acquire bespoke credentials and reserve priority track admissions.
+      </p>
+      <ul>
+        <li>Engineered with <strong>Next.js App Router</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong> for responsive, high-performance UI and seamless event booking.</li>
+        <li>Fully containerized using <strong>Docker</strong> for environment parity and deployed continuously with automated CI/CD on <strong>Vercel</strong>.</li>
+        <li>Integrated modular component architecture with client/server validation, robust state management, and end-to-end type safety.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/jojohnoson/Event-Register-App" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/jojohnoson/Event-Register-App" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Deployment" />
+        </a>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Stack-Next.js_•_TypeScript_•_Tailwind_•_Docker-blue?style=for-the-badge" alt="Tech Stack" /><br/><br/>
+      <img src="https://img.shields.io/badge/Deployment-Vercel_Production-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployment" /><br/><br/>
+      <img src="https://img.shields.io/badge/Architecture-Full--Stack_App_Router-orange?style=for-the-badge" alt="Architecture" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🚀 Key Projects & Deployments
