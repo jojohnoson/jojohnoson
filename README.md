@@ -2,14 +2,14 @@
 
   <!-- Header Banner / Typing SVG -->
   <a href="https://welcometotheportfolio.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Joel+Johnson+BV;Associate+Cloud+Engineer;Junior+DevOps+Engineer+%7C+SRE;Architecting+Fault-Tolerant+AWS+Infra;Automating+CI%2FCD+with+Jenkins+%26+ArgoCD;IEEE-Published+Researcher+%7C+AWS+Certified" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Joel+Johnson+BV;Associate+Cloud+Engineer;Junior+DevOps+Engineer+%7C+SRE;Architecting+Fault-Tolerant+AWS+Infra;Automating+CI%2FCD+with+Jenkins+%26+ArgoCD;IEEE-Published+Researcher+%7C+AWS+Partial+Certified" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <strong>Building scalable, automated, fault-tolerant cloud infrastructure and frictionless CI/CD pipelines.</strong>
   </p>
 
-  <!-- Status & Quick Badges -->
+  <!-- Contact & Action Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/joel-johnson" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -25,13 +25,20 @@
     </a>
   </p>
 
+  <!-- Interactive Status & Verification Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-success?style=flat-square&logo=gitbook&logoColor=white" alt="Status" />
-    <a href="https://www.credly.com/badges/9b669524-39bd-4f6c-9bb1-46917cb2b568/public_url" target="_blank">
-      <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified" />
+    <a href="mailto:joeljohnson2504@gmail.com?subject=Opportunity%20Discussion%20-%20Cloud%20%26%20DevOps%20Roles" target="_blank">
+      <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-2ea44f?style=flat-square&logo=githubactions&logoColor=white" alt="Status: Open for Opportunities" />
     </a>
-    <img src="https://img.shields.io/badge/Degree-B.Tech_CSE_(AI)_'26-0A66C2?style=flat-square&logo=academia&logoColor=white" alt="Degree" />
-    <img src="https://img.shields.io/badge/Location-Bangalore%2C_India-critical?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+    <a href="https://www.credly.com/badges/9b669524-39bd-4f6c-9bb1-46917cb2b568/public_url" target="_blank">
+      <img src="https://img.shields.io/badge/AWS-Partial_Certified_(Cloud_Quest)-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Partial Certified" />
+    </a>
+    <a href="https://www.karunya.edu/" target="_blank">
+      <img src="https://img.shields.io/badge/Degree-B.Tech_CSE_(AI)_'26-0A66C2?style=flat-square&logo=academia&logoColor=white" alt="Degree" />
+    </a>
+    <a href="https://maps.google.com/?q=Bangalore,+India" target="_blank">
+      <img src="https://img.shields.io/badge/Location-Bangalore%2C_India-critical?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+    </a>
   </p>
 
 </div>
@@ -265,7 +272,7 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
 
 | Category | Certificate / Publication Title | Issuing Body | Verification Link |
 |:---:|:---|:---|:---:|
-| ☁️ | **AWS Cloud Quest: Cloud Practitioner** | Amazon Web Services (AWS) | [**Verify Credly**](https://www.credly.com/badges/9b669524-39bd-4f6c-9bb1-46917cb2b568/public_url) |
+| ☁️ | **AWS Cloud Quest: Cloud Practitioner (Partial Certified)** | Amazon Web Services (AWS) | [**Verify Credly**](https://www.credly.com/badges/9b669524-39bd-4f6c-9bb1-46917cb2b568/public_url) |
 | 🐧 | **Linux Essentials Badge** | Linux Foundation | [**Verify Credly**](https://www.credly.com/badges/be71d690-04d2-4707-9954-1c5c5f03b96e/public_url) |
 | 🌐 | **Cloud Computing Certification** | NPTEL | [**View Certificate**](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs118/Course/NPTEL24CS118S15240234804069928.pdf) |
 | 🔌 | **Computer Networking** | CISCO | [**View Credential**](https://www.linkedin.com/posts/joejohnson25_cisco-networking-careergrowth-activity-7219338029851717632-fWts?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD94cbUBd_JDlWggYfjL38ni6NPTo80GIfc) |
