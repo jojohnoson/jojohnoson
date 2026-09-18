@@ -2,7 +2,7 @@
 
   <!-- Header Banner / Typing SVG -->
   <a href="https://welcometotheportfolio.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=100&lines=👋+Hi%2C+I'm+Joel+Johnson+BV;☁️+Associate+Cloud+Engineer+%7C+DevOps+%7C+SRE;🚀+Architecting+Multi-AZ+AWS+Infra+%26+Automating+CI%2FCD;📜+IEEE-Published+Researcher+%7C+AWS+Certified" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Joel+Johnson+BV;Associate+Cloud+Engineer;Junior+DevOps+Engineer+%7C+SRE;Architecting+Fault-Tolerant+AWS+Infra;Automating+CI%2FCD+with+Jenkins+%26+ArgoCD;IEEE-Published+Researcher+%7C+AWS+Certified" alt="Typing SVG" />
   </a>
 
   <p align="center">
