@@ -24,7 +24,7 @@
 
     <!-- Refined Neon Glow Filter -->
     <filter id="glow-cyan" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feGaussianBlur stdDeviation="5" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
@@ -41,11 +41,11 @@
   </defs>
 
   <style>
-    .title-text {
+    .title-letter {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
       font-weight: 900;
       font-size: 42px;
-      letter-spacing: 5px;
+      text-anchor: middle;
       text-transform: uppercase;
     }
     .subtitle-text {
@@ -64,7 +64,6 @@
       fill: #38bdf8;
     }
 
-    /* Pulse dot */
     .pulse-dot {
       animation: pulse 2s ease-in-out infinite;
     }
@@ -73,7 +72,6 @@
       50%      { opacity: 1;   r: 5px; }
     }
 
-    /* Water wave floating levitation animations for tiers */
     .float-badge {
       animation: waterBobBadge 4s ease-in-out infinite;
     }
@@ -89,11 +87,11 @@
 
     @keyframes waterBobBadge {
       0%, 100% { transform: translateY(0px); }
-      50%      { transform: translateY(-5px); }
+      50%      { transform: translateY(-4px); }
     }
     @keyframes waterBobSub {
       0%, 100% { transform: translateY(0px); }
-      50%      { transform: translateY(-4px); }
+      50%      { transform: translateY(-3px); }
     }
     @keyframes waterBobLine {
       0%, 100% { transform: translateY(0px); }
@@ -101,10 +99,9 @@
     }
     @keyframes waterBobTag {
       0%, 100% { transform: translateY(0px); }
-      50%      { transform: translateY(-3px); }
+      50%      { transform: translateY(-2px); }
     }
 
-    /* Diamond spin */
     .diamond-spin {
       animation: dspin 8s linear infinite;
       transform-origin: 450px 0px;
@@ -115,9 +112,9 @@
     }
   </style>
 
-  <!-- 100% Transparent Background (No blue card box, no border, no corner brackets, no particles) -->
+  <!-- 100% Transparent Background -->
 
-  <!-- Tier 1: Floating Status Pill Badge -->
+  <!-- Tier 1: Floating Status Pill Badge (Centered at 450) -->
   <g class="float-badge">
     <g transform="translate(305, 14)">
       <rect width="290" height="28" rx="14" fill="#070d18" fill-opacity="0.8" stroke="#0284c7" stroke-width="1.2" stroke-opacity="0.85" />
@@ -126,48 +123,140 @@
     </g>
   </g>
 
-  <!-- Tier 2: Water Floating Undulating Letters (One goes UP, next goes DOWN in wave ripple) -->
-  <g>
-    <!-- Cyan Neon Glow Layer with Ripple Letters -->
-    <text x="450" y="98" text-anchor="middle" class="title-text" fill="url(#shimmer-grad)" filter="url(#glow-cyan)">
-      <tspan>J<animate attributeName="y" values="84; 112; 84" dur="2.4s" begin="0.00s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>O<animate attributeName="y" values="112; 84; 112" dur="2.4s" begin="0.12s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>E<animate attributeName="y" values="84; 112; 84" dur="2.4s" begin="0.24s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>L<animate attributeName="y" values="112; 84; 112" dur="2.4s" begin="0.36s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan> </tspan>
-      <tspan>J<animate attributeName="y" values="84; 112; 84" dur="2.4s" begin="0.48s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>O<animate attributeName="y" values="112; 84; 112" dur="2.4s" begin="0.60s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>H<animate attributeName="y" values="84; 112; 84" dur="2.4s" begin="0.72s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>N<animate attributeName="y" values="112; 84; 112" dur="2.4s" begin="0.84s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>S<animate attributeName="y" values="84; 112; 84" dur="2.4s" begin="0.96s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>O<animate attributeName="y" values="112; 84; 112" dur="2.4s" begin="1.08s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>N<animate attributeName="y" values="84; 112; 84" dur="2.4s" begin="1.20s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan> </tspan>
-      <tspan>B<animate attributeName="y" values="112; 84; 112" dur="2.4s" begin="1.32s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>V<animate attributeName="y" values="84; 112; 84" dur="2.4s" begin="1.44s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
+  <!-- Tier 2: Perfectly Centered Smooth Wave Title Letters -->
+  <g id="wave-title">
+    <!-- J -->
+    <text x="241.5" y="98" class="title-letter" fill="url(#shimmer-grad)" filter="url(#glow-cyan)">
+      J
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="0.00s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+    <text x="241.5" y="98" class="title-letter" fill="#ffffff" fill-opacity="0.95">
+      J
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="0.00s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
     </text>
 
-    <!-- Sharp Crisp White Layer with Matching Synchronized Ripple Letters -->
-    <text x="450" y="98" text-anchor="middle" class="title-text" fill="#ffffff" fill-opacity="0.95">
-      <tspan>J<animate attributeName="y" values="84; 112; 84" dur="2.4s" begin="0.00s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>O<animate attributeName="y" values="112; 84; 112" dur="2.4s" begin="0.12s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>E<animate attributeName="y" values="84; 112; 84" dur="2.4s" begin="0.24s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>L<animate attributeName="y" values="112; 84; 112" dur="2.4s" begin="0.36s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan> </tspan>
-      <tspan>J<animate attributeName="y" values="84; 112; 84" dur="2.4s" begin="0.48s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>O<animate attributeName="y" values="112; 84; 112" dur="2.4s" begin="0.60s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>H<animate attributeName="y" values="84; 112; 84" dur="2.4s" begin="0.72s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>N<animate attributeName="y" values="112; 84; 112" dur="2.4s" begin="0.84s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>S<animate attributeName="y" values="84; 112; 84" dur="2.4s" begin="0.96s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>O<animate attributeName="y" values="112; 84; 112" dur="2.4s" begin="1.08s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>N<animate attributeName="y" values="84; 112; 84" dur="2.4s" begin="1.20s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan> </tspan>
-      <tspan>B<animate attributeName="y" values="112; 84; 112" dur="2.4s" begin="1.32s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
-      <tspan>V<animate attributeName="y" values="84; 112; 84" dur="2.4s" begin="1.44s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" /></tspan>
+    <!-- O -->
+    <text x="272.5" y="98" class="title-letter" fill="url(#shimmer-grad)" filter="url(#glow-cyan)">
+      O
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="0.18s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+    <text x="272.5" y="98" class="title-letter" fill="#ffffff" fill-opacity="0.95">
+      O
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="0.18s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+
+    <!-- E -->
+    <text x="304.5" y="98" class="title-letter" fill="url(#shimmer-grad)" filter="url(#glow-cyan)">
+      E
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="0.36s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+    <text x="304.5" y="98" class="title-letter" fill="#ffffff" fill-opacity="0.95">
+      E
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="0.36s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+
+    <!-- L -->
+    <text x="332.5" y="98" class="title-letter" fill="url(#shimmer-grad)" filter="url(#glow-cyan)">
+      L
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="0.54s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+    <text x="332.5" y="98" class="title-letter" fill="#ffffff" fill-opacity="0.95">
+      L
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="0.54s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+
+    <!-- J -->
+    <text x="374.5" y="98" class="title-letter" fill="url(#shimmer-grad)" filter="url(#glow-cyan)">
+      J
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="0.72s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+    <text x="374.5" y="98" class="title-letter" fill="#ffffff" fill-opacity="0.95">
+      J
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="0.72s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+
+    <!-- O -->
+    <text x="405.5" y="98" class="title-letter" fill="url(#shimmer-grad)" filter="url(#glow-cyan)">
+      O
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="0.90s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+    <text x="405.5" y="98" class="title-letter" fill="#ffffff" fill-opacity="0.95">
+      O
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="0.90s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+
+    <!-- H -->
+    <text x="441.5" y="98" class="title-letter" fill="url(#shimmer-grad)" filter="url(#glow-cyan)">
+      H
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="1.08s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+    <text x="441.5" y="98" class="title-letter" fill="#ffffff" fill-opacity="0.95">
+      H
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="1.08s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+
+    <!-- N -->
+    <text x="478.5" y="98" class="title-letter" fill="url(#shimmer-grad)" filter="url(#glow-cyan)">
+      N
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="1.26s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+    <text x="478.5" y="98" class="title-letter" fill="#ffffff" fill-opacity="0.95">
+      N
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="1.26s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+
+    <!-- S -->
+    <text x="512.5" y="98" class="title-letter" fill="url(#shimmer-grad)" filter="url(#glow-cyan)">
+      S
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="1.44s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+    <text x="512.5" y="98" class="title-letter" fill="#ffffff" fill-opacity="0.95">
+      S
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="1.44s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+
+    <!-- O -->
+    <text x="546.5" y="98" class="title-letter" fill="url(#shimmer-grad)" filter="url(#glow-cyan)">
+      O
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="1.62s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+    <text x="546.5" y="98" class="title-letter" fill="#ffffff" fill-opacity="0.95">
+      O
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="1.62s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+
+    <!-- N -->
+    <text x="583.5" y="98" class="title-letter" fill="url(#shimmer-grad)" filter="url(#glow-cyan)">
+      N
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="1.80s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+    <text x="583.5" y="98" class="title-letter" fill="#ffffff" fill-opacity="0.95">
+      N
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="1.80s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+
+    <!-- B -->
+    <text x="625.5" y="98" class="title-letter" fill="url(#shimmer-grad)" filter="url(#glow-cyan)">
+      B
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="1.98s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+    <text x="625.5" y="98" class="title-letter" fill="#ffffff" fill-opacity="0.95">
+      B
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="1.98s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+
+    <!-- V -->
+    <text x="658.5" y="98" class="title-letter" fill="url(#shimmer-grad)" filter="url(#glow-cyan)">
+      V
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="2.16s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
+    </text>
+    <text x="658.5" y="98" class="title-letter" fill="#ffffff" fill-opacity="0.95">
+      V
+      <animate attributeName="y" values="91; 105; 91" dur="2.6s" begin="2.16s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" />
     </text>
   </g>
 
-  <!-- Tier 3: Subtitle with Water Floating Buoyancy -->
+  <!-- Tier 3: Centered Subtitle -->
   <g class="float-subtitle">
     <text x="450" y="146" text-anchor="middle" class="subtitle-text">
       <tspan fill="#38bdf8">ASSOCIATE CLOUD ENGINEER</tspan>
