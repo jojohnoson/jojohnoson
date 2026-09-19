@@ -119,11 +119,11 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
 <p align="center"><b>CI/CD, Monitoring &amp; Security Tools</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,github,git,prometheus,grafana,maven&theme=dark" width="auto" style="max-width: 370px; height: 48px;" alt="CI/CD &amp; Monitoring" />
+    <img src="https://skillicons.dev/icons?i=jenkins,github,git,prometheus,grafana,maven&theme=dark" width="auto" style="max-width: 370px; height: 48px; vertical-align: middle;" alt="CI/CD &amp; Monitoring" />
   </a>
   &nbsp;&nbsp;
   <a href="https://helm.sh" target="_blank">
-    <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" height="48" alt="Helm" />
+    <img src="assets/helm.svg" width="48" height="48" style="vertical-align: middle;" alt="Helm" />
   </a>
 </p>
 
