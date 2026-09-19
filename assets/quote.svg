@@ -1,14 +1,14 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 120" width="100%" height="120">
   <defs>
     <linearGradient id="q-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#08080a" />
-      <stop offset="50%" stop-color="#110709" />
-      <stop offset="100%" stop-color="#060608" />
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="50%" stop-color="#0a1324" />
+      <stop offset="100%" stop-color="#04060c" />
     </linearGradient>
     <linearGradient id="q-border" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#881337" stop-opacity="0.5" />
-      <stop offset="50%" stop-color="#e11d48" stop-opacity="0.9" />
-      <stop offset="100%" stop-color="#881337" stop-opacity="0.5" />
+      <stop offset="0%" stop-color="#1e3a8a" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#0284c7" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#1e3a8a" stop-opacity="0.5" />
     </linearGradient>
     <filter id="q-glow">
       <feGaussianBlur stdDeviation="3" result="blur" />
@@ -23,13 +23,13 @@
   <rect width="820" height="120" rx="10" fill="url(#q-bg)" stroke="url(#q-border)" stroke-width="1.2" />
 
   <!-- Corner Cyber Accents -->
-  <path d="M 8 20 L 8 8 L 20 8" stroke="#e11d48" stroke-width="2.2" fill="none" stroke-linecap="round" />
-  <path d="M 812 20 L 812 8 L 800 8" stroke="#e11d48" stroke-width="2.2" fill="none" stroke-linecap="round" />
-  <path d="M 8 100 L 8 112 L 20 112" stroke="#e11d48" stroke-width="2.2" fill="none" stroke-linecap="round" />
-  <path d="M 812 100 L 812 112 L 800 112" stroke="#e11d48" stroke-width="2.2" fill="none" stroke-linecap="round" />
+  <path d="M 8 20 L 8 8 L 20 8" stroke="#38bdf8" stroke-width="2.2" fill="none" stroke-linecap="round" />
+  <path d="M 812 20 L 812 8 L 800 8" stroke="#38bdf8" stroke-width="2.2" fill="none" stroke-linecap="round" />
+  <path d="M 8 100 L 8 112 L 20 112" stroke="#38bdf8" stroke-width="2.2" fill="none" stroke-linecap="round" />
+  <path d="M 812 100 L 812 112 L 800 112" stroke="#38bdf8" stroke-width="2.2" fill="none" stroke-linecap="round" />
 
   <!-- Big Quote Mark -->
-  <text x="32" y="56" font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#f43f5e" opacity="0.9" filter="url(#q-glow)">&#8220;</text>
+  <text x="32" y="56" font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#38bdf8" opacity="0.9" filter="url(#q-glow)">&#8220;</text>
 
   <!-- Quote Text Line -->
   <text x="64" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-style="italic" font-weight="500" fill="#f1f5f9">
@@ -37,7 +37,7 @@
   </text>
 
   <!-- Attribution Line -->
-  <text x="760" y="88" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="600" fill="#fb7185" letter-spacing="1">
+  <text x="760" y="88" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="600" fill="#38bdf8" letter-spacing="1">
     &#8212; Joel Johnson BV &#8226; Cloud &amp; DevOps Engineer
   </text>
 </svg>

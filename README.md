@@ -1,70 +1,70 @@
-﻿<p align="center">
+<p align="center">
   <img src="assets/header.svg" width="100%" alt="Joel Johnson BV - Cloud & DevOps Engineer Header" />
 </p>
 
 <p align="center">
   <a href="https://welcometotheportfolio.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=E11D48&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi+there!+I'm+Joel+Johnson+BV;Associate+Cloud+Engineer+%26+DevOps+Specialist;Infrastructure+as+Code+%26+Terraform+Architect;CI%2FCD+Automation+%26+GitOps+Engineer;IEEE-Published+Deep+Learning+Researcher;Building+resilient%2C+fault-tolerant+cloud+systems" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=680&height=45&lines=Hi+there!+I'm+Joel+Johnson+BV;Associate+Cloud+Engineer+%26+DevOps+Engineer;Infrastructure+as+Code+%26+Terraform+Architect;CI%2FCD+Automation+%26+GitOps+Engineer;IEEE-Published+Deep+Learning+Researcher;Building+resilient%2C+fault-tolerant+cloud+systems" width="100%" style="max-width: 680px;" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Social & Primary Navigation Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/joejohnson25/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-E11D48?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060d1b" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://welcometotheportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-E11D48?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0284C7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=060d1b" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:joeljohnson2504@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-E11D48?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060d1b" alt="Email" />
   </a>
   &nbsp;
   <a href="https://hub.docker.com/repositories/joeljxhnson" target="_blank">
-    <img src="https://img.shields.io/badge/Docker_Hub-Repositories-E11D48?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0a" alt="Docker Hub" />
+    <img src="https://img.shields.io/badge/Docker_Hub-Repositories-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=060d1b" alt="Docker Hub" />
   </a>
   &nbsp;
   <a href="https://github.com/jojohnoson" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=FB7185&labelColor=0a0a0a" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-060d1b?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=060d1b" alt="GitHub" />
   </a>
 </p>
 
 <!-- Verification & Meta Badges -->
 <p align="center">
   <a href="mailto:joeljohnson2504@gmail.com?subject=Opportunity%20Discussion%20-%20Cloud%20%26%20DevOps%20Roles" target="_blank">
-    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-E11D48?style=flat-square&logo=githubactions&logoColor=white&labelColor=0a0a0a" alt="Status: Open for Opportunities" />
+    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-0284C7?style=flat-square&logo=githubactions&logoColor=white&labelColor=060d1b" alt="Status: Open for Opportunities" />
   </a>
   &nbsp;
   <a href="https://www.credly.com/badges/9b669524-39bd-4f6c-9bb1-46917cb2b568/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Partial_Certified_(Cloud_Quest)-E11D48?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0a0a0a" alt="AWS Partial Certified" />
+    <img src="https://img.shields.io/badge/AWS-Partial_Certified_(Cloud_Quest)-0284C7?style=flat-square&logo=amazonaws&logoColor=white&labelColor=060d1b" alt="AWS Partial Certified" />
   </a>
   &nbsp;
   <a href="https://www.karunya.edu/" target="_blank">
-    <img src="https://img.shields.io/badge/Degree-B.Tech_CSE_(AI)_'26-E11D48?style=flat-square&logo=academia&logoColor=white&labelColor=0a0a0a" alt="Degree" />
+    <img src="https://img.shields.io/badge/Degree-B.Tech_CSE_(AI)_'26-0284C7?style=flat-square&logo=academia&logoColor=white&labelColor=060d1b" alt="Degree" />
   </a>
   &nbsp;
   <a href="https://maps.google.com/?q=Bangalore,+India" target="_blank">
-    <img src="https://img.shields.io/badge/Location-Bangalore%2C_India-E11D48?style=flat-square&logo=google-maps&logoColor=white&labelColor=0a0a0a" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-Bangalore%2C_India-0284C7?style=flat-square&logo=google-maps&logoColor=white&labelColor=060d1b" alt="Location" />
   </a>
 </p>
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jojohnoson&label=PROFILE%20VIEWS&color=e11d48&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jojohnoson&label=PROFILE%20VIEWS&color=0284c7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-<h2 align="center">🔴 About Me &amp; Professional Summary</h2>
+<h2 align="center">🔷 About Me &amp; Professional Summary</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=FB7185&center=true&vCenter=true&multiline=false&width=620&height=28&lines=Automating+infrastructure.+Scaling+resilience.+Engineering+the+cloud." width="100%" style="max-width: 620px;" alt="Typing Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=620&height=28&lines=Automating+infrastructure.+Scaling+resilience.+Engineering+the+cloud." width="100%" style="max-width: 620px;" alt="Typing Quote" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
 <p align="center"><b>CI/CD, Monitoring &amp; Security Tools</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,github,git,prometheus,grafana,postman,maven&theme=dark" width="100%" style="max-width: 440px;" alt="CI/CD & Monitoring" />
+    <img src="https://skillicons.dev/icons?i=jenkins,github,git,prometheus,grafana,helm,maven&theme=dark" width="100%" style="max-width: 440px;" alt="CI/CD & Monitoring" />
   </a>
 </p>
 
@@ -205,18 +205,18 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
       </ul>
       <p>
         <a href="https://github.com/jojohnoson/Event-Register-Infra" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code-GitHub-111111?style=for-the-badge&logo=github&logoColor=FB7185&labelColor=0a0a0a" alt="GitHub Repo" />
+          <img src="https://img.shields.io/badge/Source_Code-GitHub-111111?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=060d1b" alt="GitHub Repo" />
         </a>
         &nbsp;&nbsp;
         <a href="https://www.linkedin.com/posts/joejohnson25_aws-terraform-devops-activity-7462949469379084289-1z6j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD94cbUBd_JDlWggYfjL38ni6NPTo80GIfc" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-LinkedIn-E11D48?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/Live_Demo-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060d1b" alt="Live Demo" />
         </a>
       </p>
     </td>
     <td width="35%" align="center" style="padding: 16px;">
-      <img src="https://img.shields.io/badge/Stack-Terraform_•_AWS_•_Jenkins-E11D48?style=for-the-badge&labelColor=0a0a0a" alt="Tech Stack" /><br/><br/>
-      <img src="https://img.shields.io/badge/Reliability-100%25_Self--Healing-E11D48?style=for-the-badge&labelColor=0a0a0a" alt="Metric" /><br/><br/>
-      <img src="https://img.shields.io/badge/Architecture-Multi--AZ_Fault--Tolerant-E11D48?style=for-the-badge&labelColor=0a0a0a" alt="Architecture" />
+      <img src="https://img.shields.io/badge/Stack-Terraform_•_AWS_•_Jenkins-0284C7?style=for-the-badge&labelColor=060d1b" alt="Tech Stack" /><br/><br/>
+      <img src="https://img.shields.io/badge/Reliability-100%25_Self--Healing-0284C7?style=for-the-badge&labelColor=060d1b" alt="Metric" /><br/><br/>
+      <img src="https://img.shields.io/badge/Architecture-Multi--AZ_Fault--Tolerant-0284C7?style=for-the-badge&labelColor=060d1b" alt="Architecture" />
     </td>
   </tr>
 </table>
@@ -237,18 +237,18 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
       </ul>
       <p>
         <a href="https://github.com/jojohnoson/Event-Register-App" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code-GitHub-111111?style=for-the-badge&logo=github&logoColor=FB7185&labelColor=0a0a0a" alt="GitHub Repo" />
+          <img src="https://img.shields.io/badge/Source_Code-GitHub-111111?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=060d1b" alt="GitHub Repo" />
         </a>
         &nbsp;&nbsp;
         <a href="https://eventhubmanagementapp.vercel.app/events" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Deployment-Vercel-E11D48?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Vercel Deployment" />
+          <img src="https://img.shields.io/badge/Live_Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=060d1b" alt="Vercel Deployment" />
         </a>
       </p>
     </td>
     <td width="35%" align="center" style="padding: 16px;">
-      <img src="https://img.shields.io/badge/Stack-Next.js_•_TypeScript_•_Docker-E11D48?style=for-the-badge&labelColor=0a0a0a" alt="Tech Stack" /><br/><br/>
-      <img src="https://img.shields.io/badge/Deployment-Vercel_Production-E11D48?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Deployment" /><br/><br/>
-      <img src="https://img.shields.io/badge/Architecture-Full--Stack_App_Router-E11D48?style=for-the-badge&labelColor=0a0a0a" alt="Architecture" />
+      <img src="https://img.shields.io/badge/Stack-Next.js_•_TypeScript_•_Docker-0284C7?style=for-the-badge&labelColor=060d1b" alt="Tech Stack" /><br/><br/>
+      <img src="https://img.shields.io/badge/Deployment-Vercel_Production-0284C7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=060d1b" alt="Deployment" /><br/><br/>
+      <img src="https://img.shields.io/badge/Architecture-Full--Stack_App_Router-0284C7?style=for-the-badge&labelColor=060d1b" alt="Architecture" />
     </td>
   </tr>
 </table>
@@ -277,7 +277,7 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
       <td><code>Kubernetes</code> <code>EKS</code> <code>Helm</code> <code>ArgoCD</code> <code>Jenkins</code></td>
       <td>
         <a href="https://github.com/jojohnoson/3-tier-Application-Deployment-Production-Grade-" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-GitHub-111111?style=flat-square&logo=github&logoColor=FB7185" alt="GitHub" />
+          <img src="https://img.shields.io/badge/Repo-GitHub-111111?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub" />
         </a>
       </td>
     </tr>
@@ -291,10 +291,10 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
       <td><code>Jenkins</code> <code>Docker</code> <code>Java</code> <code>AWS</code> <code>Git</code></td>
       <td>
         <a href="https://www.linkedin.com/posts/joejohnson25_devops-ciabrcd-jenkins-activity-7498104193828724736-p1uY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD94cbUBd_JDlWggYfjL38ni6NPTo80GIfc" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-LinkedIn-E11D48?style=flat-square&logo=linkedin&logoColor=white" alt="Demo" />
+          <img src="https://img.shields.io/badge/Live_Demo-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Demo" />
         </a>
         <a href="https://github.com/jojohnoson" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-GitHub-111111?style=flat-square&logo=github&logoColor=FB7185" alt="GitHub" />
+          <img src="https://img.shields.io/badge/Repo-GitHub-111111?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub" />
         </a>
       </td>
     </tr>
@@ -307,10 +307,10 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
       <td><code>React</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Vercel</code></td>
       <td>
         <a href="https://welcometotheportfolio.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-Vercel-E11D48?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
         <a href="https://github.com/jojohnoson" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-GitHub-111111?style=flat-square&logo=github&logoColor=FB7185" alt="GitHub" />
+          <img src="https://img.shields.io/badge/Repo-GitHub-111111?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub" />
         </a>
       </td>
     </tr>
@@ -326,7 +326,7 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
           <img src="https://img.shields.io/badge/IEEE_Xplore-Paper-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Xplore" />
         </a>
         <a href="https://github.com/jojohnoson" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-GitHub-111111?style=flat-square&logo=github&logoColor=FB7185" alt="GitHub" />
+          <img src="https://img.shields.io/badge/Repo-GitHub-111111?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub" />
         </a>
       </td>
     </tr>
@@ -354,15 +354,23 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
 
 <h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=jojohnoson&show_icons=true&bg_color=0a0a0a&title_color=e11d48&text_color=f3f4f6&icon_color=e11d48&border_color=e11d48&border_radius=8" width="100%" style="max-width: 440px;" alt="Joel's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jojohnoson&layout=compact&bg_color=0a0a0a&title_color=e11d48&text_color=f3f4f6&border_color=e11d48&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojohnoson&theme=blood&hide_border=false&border=e11d48&background=0a0a0a&ring=e11d48&fire=e11d48&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e11d48&sideLabels=e11d48&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jojohnoson&show_icons=true&theme=tokyonight&hide_border=false&border_color=0284c7&border_radius=8&count_private=true&include_all_commits=true" width="410" alt="Joel's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jojohnoson&layout=compact&theme=tokyonight&hide_border=false&border_color=0284c7&border_radius=8" width="350" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojohnoson&theme=tokyonight&hide_border=false&border=0284c7&background=070d18&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=38bdf8" width="770" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="assets/quote.svg" width="100%" style="max-width: 760px;" alt="DevOps Quote" />
@@ -380,7 +388,7 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
       <a href="https://www.linkedin.com/in/joejohnson25/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
         <br /><br />
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-E11D48?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060d1b" alt="LinkedIn" />
       </a>
       <br />
       <sub><b>Professional Network</b></sub>
@@ -389,7 +397,7 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
       <a href="https://welcometotheportfolio.vercel.app/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Portfolio" />
         <br /><br />
-        <img src="https://img.shields.io/badge/Portfolio-Visit_Site-E11D48?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0284C7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=060d1b" alt="Portfolio" />
       </a>
       <br />
       <sub><b>Live Projects &amp; Work</b></sub>
@@ -398,7 +406,7 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
       <a href="mailto:joeljohnson2504@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
         <br /><br />
-        <img src="https://img.shields.io/badge/Email-Contact_Me-E11D48?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+        <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060d1b" alt="Email" />
       </a>
       <br />
       <sub><b>Direct Collaboration</b></sub>
@@ -407,7 +415,7 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
       <a href="https://hub.docker.com/repositories/joeljxhnson" target="_blank">
         <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker Hub" />
         <br /><br />
-        <img src="https://img.shields.io/badge/Docker_Hub-Images-E11D48?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0a" alt="Docker Hub" />
+        <img src="https://img.shields.io/badge/Docker_Hub-Images-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=060d1b" alt="Docker Hub" />
       </a>
       <br />
       <sub><b>Container Registries</b></sub>
