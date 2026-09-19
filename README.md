@@ -112,25 +112,19 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
 <p align="center"><b>Cloud, Containers &amp; Orchestration</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,bash&theme=dark" width="100%" style="max-width: 440px;" alt="Cloud & DevOps Icons" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,bash&theme=dark" height="56" alt="Cloud & DevOps Icons" />
   </a>
 </p>
 
 <p align="center"><b>CI/CD, Monitoring &amp; Security Tools</b></p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,github,git,prometheus,grafana,maven&theme=dark" width="auto" style="max-width: 370px; height: 48px; vertical-align: middle;" alt="CI/CD &amp; Monitoring" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://helm.sh" target="_blank">
-    <img src="assets/helm.svg" width="48" height="48" style="vertical-align: middle;" alt="Helm" />
-  </a>
+  <img src="assets/cicd-tools.svg" height="56" alt="CI/CD &amp; Monitoring Tools including Helm" />
 </p>
 
 <p align="center"><b>Programming, Frameworks &amp; Databases</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,react,tailwind,nodejs,spring,mysql,firebase,vercel&theme=dark" width="100%" style="max-width: 600px;" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,react,tailwind,nodejs,spring,mysql,firebase,vercel&theme=dark" height="56" alt="Languages &amp; Frameworks" />
   </a>
 </p>
 
