@@ -370,7 +370,7 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojohnoson&theme=tokyonight&hide_border=false&border=0284c7&background=070d18&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=38bdf8" width="770" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=jojohnoson&theme=tokyonight&hide_border=false&border=0284c7&background=070d18&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=38bdf8&date_format=j%20M%5B%2C%20Y%5D" width="770" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
