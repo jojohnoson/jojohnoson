@@ -268,12 +268,12 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
 
 ---
 
-<h2 align="center">🌟 Featured Production Architectures &amp; Deep-Dives</h2>
+<h2 align="center">🌟 Featured Production Architectures (Live Architecture Telemetry)</h2>
 
-<!-- Featured Project 1 -->
+<!-- Featured Project 1: Event Register Infra -->
 <table width="100%" border="0" align="center">
   <tr>
-    <td width="65%" style="padding: 16px;">
+    <td style="padding: 16px;">
       <h3>🏗️ Event Register Infrastructure (Self-Healing AWS Multi-AZ)</h3>
       <p>
         Production-ready <strong>Infrastructure as Code (IaC)</strong> and automated <strong>CI/CD pipeline</strong> deployed across an AWS multi-AZ environment using <strong>Terraform</strong> and <strong>Jenkins</strong>.
@@ -284,135 +284,55 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
         <li><strong>Chaos Engineering Validation</strong>: Simulated unplanned instance crash events; ALB immediately rerouted traffic to healthy peer instances in alternative AZs with zero request drops.</li>
         <li><strong>Declarative IaC</strong>: 100% codified in Terraform with parameterized modules, remote S3 state storage, and DynamoDB state locking.</li>
       </ul>
-      <p>
-        <a href="https://github.com/jojohnoson/Event-Register-Infra" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code-GitHub-111111?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=060d1b" alt="GitHub Repo" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://www.linkedin.com/posts/joejohnson25_aws-terraform-devops-activity-7462949469379084289-1z6j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD94cbUBd_JDlWggYfjL38ni6NPTo80GIfc" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060d1b" alt="Live Demo" />
-        </a>
+      <p align="center">
+        <img src="assets/project-infra.svg" width="100%" alt="AWS Multi-AZ Chaos Test &amp; Self-Healing Telemetry" />
       </p>
-    </td>
-    <td width="35%" align="center" style="padding: 16px;">
-      <img src="https://img.shields.io/badge/Stack-Terraform_•_AWS_•_Jenkins-0284C7?style=for-the-badge&labelColor=060d1b" alt="Tech Stack" /><br/><br/>
-      <img src="https://img.shields.io/badge/Reliability-100%25_Self--Healing-0284C7?style=for-the-badge&labelColor=060d1b" alt="Metric" /><br/><br/>
-      <img src="https://img.shields.io/badge/Architecture-Multi--AZ_Fault--Tolerant-0284C7?style=for-the-badge&labelColor=060d1b" alt="Architecture" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Featured Project 2 -->
+<!-- Featured Project 2: Three-Tier EKS GitOps Platform -->
 <table width="100%" border="0" align="center">
   <tr>
-    <td width="65%" style="padding: 16px;">
-      <h3>🎟️ Event Register App (Cloud-Native Event &amp; Ticketing Platform)</h3>
+    <td style="padding: 16px;">
+      <h3>🌐 Three-Tier EKS GitOps Continuous Delivery Platform</h3>
       <p>
-        Full-stack modern <strong>Event Registration &amp; Ticketing Platform</strong> built with <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Docker</strong> — enabling high-throughput ticketing workflows and attendee credential management.
+        Enterprise-ready <strong>Kubernetes GitOps Platform</strong> managing 3-tier microservices on <strong>Amazon EKS</strong> using <strong>Helm Charts</strong> and <strong>ArgoCD</strong> for declarative continuous deployment and automated self-healing.
       </p>
       <ul>
-        <li><strong>Architecture &amp; Performance</strong>: Built on Next.js 14 App Router, React Server Components, and Tailwind CSS for optimized server-side rendering, sub-second TTFB, and responsive client interactions.</li>
-        <li><strong>Containerization &amp; Parity</strong>: Fully containerized with multi-stage Docker builds to ensure identical runtimes across local testing, CI validation, and production.</li>
-        <li><strong>Automated Delivery</strong>: Continuous deployment pipeline configured on Vercel with automatic pull request previews, edge middleware, and rigorous type-checking.</li>
+        <li><strong>Multi-Tier Cluster Hardening</strong>: Configured secure VPC networking, IAM Roles for Service Accounts (IRSA), ingress controllers, and namespaces isolating database, backend, and frontend tiers.</li>
+        <li><strong>Declarative GitOps Engine</strong>: ArgoCD continuously reconciles cluster state against parameterized Helm chart repositories with automated drift detection and instant rollbacks on failed health probes.</li>
+        <li><strong>Real-Time Observability &amp; Alerting</strong>: Integrated Prometheus pod scrapers and Grafana dashboards for cluster-wide saturation tracking and automated Slack webhook deployment notifications.</li>
       </ul>
-      <p>
-        <a href="https://github.com/jojohnoson/Event-Register-App" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code-GitHub-111111?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=060d1b" alt="GitHub Repo" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://eventhubmanagementapp.vercel.app/events" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=060d1b" alt="Vercel Deployment" />
-        </a>
+      <p align="center">
+        <img src="assets/project-eks.svg" width="100%" alt="Kubernetes GitOps Pipeline: Amazon EKS, Helm &amp; ArgoCD" />
       </p>
-    </td>
-    <td width="35%" align="center" style="padding: 16px;">
-      <img src="https://img.shields.io/badge/Stack-Next.js_•_TypeScript_•_Docker-0284C7?style=for-the-badge&labelColor=060d1b" alt="Tech Stack" /><br/><br/>
-      <img src="https://img.shields.io/badge/Deployment-Vercel_Production-0284C7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=060d1b" alt="Deployment" /><br/><br/>
-      <img src="https://img.shields.io/badge/Architecture-Full--Stack_App_Router-0284C7?style=for-the-badge&labelColor=060d1b" alt="Architecture" />
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-<h2 align="center">🚀 Key Engineering Projects &amp; Research</h2>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Key Highlights &amp; Production Impact</th>
-      <th>Tech Stack</th>
-      <th>Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>🌐 Three-Tier EKS GitOps Deployment</strong></td>
-      <td>
-        • Provisioned and hardened production-grade <strong>Amazon EKS</strong> clusters across multiple AZs.<br/>
-        • Implemented GitOps Continuous Delivery using <strong>Helm &amp; ArgoCD</strong> with automated drift correction.<br/>
-        • Integrated automated Slack alerts and health check probes for end-to-end cluster observability.
-      </td>
-      <td><code>Kubernetes</code> <code>EKS</code> <code>Helm</code> <code>ArgoCD</code> <code>Jenkins</code></td>
-      <td>
-        <a href="https://github.com/jojohnoson/3-tier-Application-Deployment-Production-Grade-" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-GitHub-111111?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>⚡ RegisterApp Automated CI/CD Pipeline</strong></td>
-      <td>
-        • Engineered end-to-end automated Jenkins &amp; Docker CI/CD pipeline for enterprise Java applications.<br/>
-        • Enabled zero-downtime rolling deployments and automated rollbacks via single Git push.<br/>
-        • <strong>Reduced manual deployment time by 90%</strong> while eliminating configuration drift.
-      </td>
-      <td><code>Jenkins</code> <code>Docker</code> <code>Java</code> <code>AWS</code> <code>Git</code></td>
-      <td>
-        <a href="https://www.linkedin.com/posts/joejohnson25_devops-ciabrcd-jenkins-activity-7498104193828724736-p1uY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD94cbUBd_JDlWggYfjL38ni6NPTo80GIfc" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Demo" />
-        </a>
-        <a href="https://github.com/jojohnoson" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-GitHub-111111?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>💻 Modern Developer Portfolio</strong></td>
-      <td>
-        • High-performance, SEO-optimized personal portfolio showcasing infrastructure architectures and experience.<br/>
-        • Clean responsive aesthetic built with modern web principles, optimized for sub-second page loads.
-      </td>
-      <td><code>React</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Vercel</code></td>
-      <td>
-        <a href="https://welcometotheportfolio.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/jojohnoson" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-GitHub-111111?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>🔬 Deep Learning Medical Vision System</strong></td>
-      <td>
-        • Engineered an advanced deep learning computer vision model for endoscopic disease classification.<br/>
-        • Published in <strong>IEEE (2025)</strong>: <em>Endoscopic Image-Based Deep Learning Approach for Predicting Gastrointestinal Diseases</em>.
-      </td>
-      <td><code>Python</code> <code>Deep Learning</code> <code>Computer Vision</code> <code>IEEE</code></td>
-      <td>
-        <a href="https://ieeexplore.ieee.org/abstract/document/11382902" target="_blank">
-          <img src="https://img.shields.io/badge/IEEE_Xplore-Paper-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Xplore" />
-        </a>
-        <a href="https://github.com/jojohnoson" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-GitHub-111111?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
+<!-- Featured Project 3: Event Register App -->
+<table width="100%" border="0" align="center">
+  <tr>
+    <td style="padding: 16px;">
+      <h3>🎟️ Event Register App (Cloud-Native Event &amp; Ticketing Platform)</h3>
+      <p>
+        Full-stack modern <strong>Event Registration &amp; Ticketing Platform</strong> built with <strong>Next.js 14</strong>, <strong>TypeScript</strong>, and <strong>Docker</strong> — enabling high-throughput ticketing workflows and attendee credential management.
+      </p>
+      <ul>
+        <li><strong>Architecture &amp; Performance</strong>: Built on Next.js 14 App Router, React Server Components, and Tailwind CSS for optimized server-side rendering, sub-second TTFB, and responsive client interactions.</li>
+        <li><strong>Containerization &amp; Parity</strong>: Fully containerized with multi-stage Docker builds to ensure identical runtimes across local testing, CI validation, and production.</li>
+        <li><strong>Edge Global Delivery</strong>: Edge caching and global CDN distribution with edge middleware, strict TypeScript validation, and atomic rollouts.</li>
+      </ul>
+      <p align="center">
+        <img src="assets/project-app.svg" width="100%" alt="Cloud-Native Event Platform: Next.js 14, TypeScript &amp; Docker" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
