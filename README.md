@@ -68,27 +68,27 @@
 
 <!-- Impact Metrics Grid -->
 <div align="center">
-  <table border="0" width="100%" style="max-width: 820px;">
+  <table border="0" width="100%">
     <tr>
-      <td align="center" width="25%" style="padding: 14px; background-color: #060d1a; border: 1px solid #0284c7; border-radius: 10px;">
-        <h2 style="margin: 0; color: #38bdf8; font-size: 28px;">⚡ 37%</h2>
-        <p style="margin: 4px 0 0 0; color: #f1f5f9; font-weight: 600; font-size: 13px;">IaC Config Reduction</p>
-        <p style="margin: 2px 0 0 0; color: #94a3b8; font-size: 11px;">Terraform Modular AWS Blueprints</p>
+      <td align="center" width="25%">
+        <h3>⚡ 37%</h3>
+        <b>IaC Config Reduction</b><br/>
+        <sub>Terraform Modular AWS Blueprints</sub>
       </td>
-      <td align="center" width="25%" style="padding: 14px; background-color: #060d1a; border: 1px solid #0284c7; border-radius: 10px;">
-        <h2 style="margin: 0; color: #38bdf8; font-size: 28px;">🤖 92%</h2>
-        <p style="margin: 4px 0 0 0; color: #f1f5f9; font-weight: 600; font-size: 13px;">Operational Toil Eliminated</p>
-        <p style="margin: 2px 0 0 0; color: #94a3b8; font-size: 11px;">Python Automation &amp; Event Handlers</p>
+      <td align="center" width="25%">
+        <h3>🤖 92%</h3>
+        <b>Operational Toil Eliminated</b><br/>
+        <sub>Python Automation &amp; Event Handlers</sub>
       </td>
-      <td align="center" width="25%" style="padding: 14px; background-color: #060d1a; border: 1px solid #0284c7; border-radius: 10px;">
-        <h2 style="margin: 0; color: #38bdf8; font-size: 28px;">🚀 90%</h2>
-        <p style="margin: 4px 0 0 0; color: #f1f5f9; font-weight: 600; font-size: 13px;">Faster Deployments</p>
-        <p style="margin: 2px 0 0 0; color: #94a3b8; font-size: 11px;">Zero-Downtime Jenkins &amp; Docker CI/CD</p>
+      <td align="center" width="25%">
+        <h3>🚀 90%</h3>
+        <b>Faster Deployments</b><br/>
+        <sub>Zero-Downtime CI/CD Pipelines</sub>
       </td>
-      <td align="center" width="25%" style="padding: 14px; background-color: #060d1a; border: 1px solid #0284c7; border-radius: 10px;">
-        <h2 style="margin: 0; color: #38bdf8; font-size: 28px;">🛡️ 100%</h2>
-        <p style="margin: 4px 0 0 0; color: #f1f5f9; font-weight: 600; font-size: 13px;">Self-Healing Uptime</p>
-        <p style="margin: 2px 0 0 0; color: #94a3b8; font-size: 11px;">ALB + ASG Multi-AZ Auto-Failover</p>
+      <td align="center" width="25%">
+        <h3>🛡️ 100%</h3>
+        <b>Self-Healing Uptime</b><br/>
+        <sub>ALB + ASG Multi-AZ Auto-Failover</sub>
       </td>
     </tr>
   </table>
@@ -391,38 +391,38 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
 
 <p align="center"><i>Whether you want to discuss cloud architecture, explore open-source collaboration, or have opportunities in DevOps/SRE — my inbox is always open!</i></p>
 
-<table border="0" align="center">
+<table border="0" width="100%" align="center">
   <tr>
-    <td align="center" width="220" style="padding: 16px;">
+    <td align="center" width="25%">
       <a href="https://www.linkedin.com/in/joejohnson25/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+        <img src="https://skillicons.dev/icons?i=linkedin" width="56" height="56" alt="LinkedIn" />
         <br /><br />
         <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060d1b" alt="LinkedIn" />
       </a>
       <br />
       <sub><b>Professional Network</b></sub>
     </td>
-    <td align="center" width="220" style="padding: 16px;">
+    <td align="center" width="25%">
       <a href="https://welcometotheportfolio.vercel.app/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Portfolio" />
+        <img src="https://skillicons.dev/icons?i=vercel" width="56" height="56" alt="Portfolio" />
         <br /><br />
         <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0284C7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=060d1b" alt="Portfolio" />
       </a>
       <br />
       <sub><b>Live Projects &amp; Work</b></sub>
     </td>
-    <td align="center" width="220" style="padding: 16px;">
+    <td align="center" width="25%">
       <a href="mailto:joeljohnson2504@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+        <img src="https://skillicons.dev/icons?i=gmail" width="56" height="56" alt="Gmail" />
         <br /><br />
         <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060d1b" alt="Email" />
       </a>
       <br />
       <sub><b>Direct Collaboration</b></sub>
     </td>
-    <td align="center" width="220" style="padding: 16px;">
+    <td align="center" width="25%">
       <a href="https://hub.docker.com/repositories/joeljxhnson" target="_blank">
-        <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker Hub" />
+        <img src="https://skillicons.dev/icons?i=docker" width="56" height="56" alt="Docker Hub" />
         <br /><br />
         <img src="https://img.shields.io/badge/Docker_Hub-Images-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=060d1b" alt="Docker Hub" />
       </a>
