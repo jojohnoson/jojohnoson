@@ -1,16 +1,34 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 120" width="100%" height="120">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 165" width="100%" height="165">
   <defs>
+    <!-- Background Gradient -->
     <linearGradient id="q-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050811" />
-      <stop offset="50%" stop-color="#0a1324" />
-      <stop offset="100%" stop-color="#04060c" />
+      <stop offset="0%" stop-color="#040711" />
+      <stop offset="50%" stop-color="#091325" />
+      <stop offset="100%" stop-color="#030610" />
     </linearGradient>
+
+    <!-- Glowing Border Gradient -->
     <linearGradient id="q-border" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1e3a8a" stop-opacity="0.5" />
-      <stop offset="50%" stop-color="#0284c7" stop-opacity="0.9" />
-      <stop offset="100%" stop-color="#1e3a8a" stop-opacity="0.5" />
+      <stop offset="0%" stop-color="#1e3a8a" stop-opacity="0.6" />
+      <stop offset="35%" stop-color="#0284c7" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#38bdf8" stop-opacity="1" />
+      <stop offset="100%" stop-color="#1e3a8a" stop-opacity="0.6" />
     </linearGradient>
-    <filter id="q-glow">
+
+    <!-- Top Bar Shimmer -->
+    <linearGradient id="bar-shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0c192e" />
+      <stop offset="50%" stop-color="#0e2343" />
+      <stop offset="100%" stop-color="#0c192e" />
+    </linearGradient>
+
+    <!-- Subtle Tech Grid Pattern -->
+    <pattern id="q-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1e293b" stroke-width="0.6" stroke-opacity="0.25" />
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="q-glow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="3" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
@@ -19,25 +37,99 @@
     </filter>
   </defs>
 
+  <style>
+    @keyframes pulse-green {
+      0%, 100% { opacity: 0.5; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.25); }
+    }
+    @keyframes cursor-blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes tag-glow {
+      0%, 100% { stroke-opacity: 0.5; }
+      50% { stroke-opacity: 1; }
+    }
+    .pulse-dot {
+      animation: pulse-green 2s ease-in-out infinite;
+      transform-origin: 649px 18.5px;
+    }
+    .cursor-blink {
+      animation: cursor-blink 1s infinite;
+    }
+    .chip {
+      animation: tag-glow 4s ease-in-out infinite;
+    }
+  </style>
+
   <!-- Card Background -->
-  <rect width="820" height="120" rx="10" fill="url(#q-bg)" stroke="url(#q-border)" stroke-width="1.2" />
+  <rect width="820" height="165" rx="12" fill="url(#q-bg)" stroke="url(#q-border)" stroke-width="1.2" />
 
-  <!-- Corner Cyber Accents -->
-  <path d="M 8 20 L 8 8 L 20 8" stroke="#38bdf8" stroke-width="2.2" fill="none" stroke-linecap="round" />
-  <path d="M 812 20 L 812 8 L 800 8" stroke="#38bdf8" stroke-width="2.2" fill="none" stroke-linecap="round" />
-  <path d="M 8 100 L 8 112 L 20 112" stroke="#38bdf8" stroke-width="2.2" fill="none" stroke-linecap="round" />
-  <path d="M 812 100 L 812 112 L 800 112" stroke="#38bdf8" stroke-width="2.2" fill="none" stroke-linecap="round" />
+  <!-- Background Tech Grid -->
+  <rect width="820" height="165" rx="12" fill="url(#q-grid)" />
 
-  <!-- Big Quote Mark -->
-  <text x="32" y="56" font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#38bdf8" opacity="0.9" filter="url(#q-glow)">&#8220;</text>
+  <!-- Terminal Top Bar -->
+  <rect x="1" y="1" width="818" height="35" rx="11" fill="url(#bar-shimmer)" />
+  <line x1="0" y1="36" x2="820" y2="36" stroke="#1e293b" stroke-width="1" />
 
-  <!-- Quote Text Line -->
-  <text x="64" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-style="italic" font-weight="500" fill="#f1f5f9">
-    &#8220;DevOps is not just about tools &#8212; it's about culture, relentless automation, and building resilient systems.&#8221;
+  <!-- Window Traffic Lights -->
+  <circle cx="25" cy="18.5" r="4.5" fill="#ef4444" />
+  <circle cx="40" cy="18.5" r="4.5" fill="#f59e0b" />
+  <circle cx="55" cy="18.5" r="4.5" fill="#10b981" />
+
+  <!-- Terminal Title -->
+  <text x="75" y="22.5" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="12" font-weight="600" fill="#64748b">
+    joel@cloud-cluster:<tspan fill="#38bdf8">~/manifesto</tspan> <tspan fill="#475569">(bash)</tspan>
   </text>
 
-  <!-- Attribution Line -->
-  <text x="760" y="88" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="600" fill="#38bdf8" letter-spacing="1">
-    &#8212; Joel Johnson BV &#8226; Cloud &amp; DevOps Engineer
+  <!-- Live Status Chip -->
+  <rect x="636" y="8" width="168" height="21" rx="10.5" fill="#071325" stroke="#0284c7" stroke-width="0.8" stroke-opacity="0.8" />
+  <circle cx="649" cy="18.5" r="3.5" fill="#10b981" class="pulse-dot" />
+  <text x="660" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="700" fill="#38bdf8" letter-spacing="0.8">PROD: 99.99% RESILIENT</text>
+
+  <!-- Corner Cyber Accents -->
+  <path d="M 8 20 L 8 8 L 20 8" stroke="#38bdf8" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.8" />
+  <path d="M 812 20 L 812 8 L 800 8" stroke="#38bdf8" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.8" />
+  <path d="M 8 145 L 8 157 L 20 157" stroke="#38bdf8" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.8" />
+  <path d="M 812 145 L 812 157 L 800 157" stroke="#38bdf8" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.8" />
+
+  <!-- Command Prompt Line -->
+  <text x="28" y="58" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#38bdf8">❯</text>
+  <text x="44" y="58" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#94a3b8">cat <tspan fill="#f1f5f9">manifesto.yaml</tspan></text>
+  <rect x="206" y="46" width="7" height="14" fill="#38bdf8" class="cursor-blink" rx="1" />
+
+  <!-- Engineering Philosophy / Quote -->
+  <text x="28" y="85" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="500" fill="#f1f5f9">
+    <tspan fill="#38bdf8" font-size="20" font-family="Georgia, serif">&#8220;</tspan>DevOps is the art of <tspan fill="#38bdf8" font-weight="700">architecting resilience</tspan> &#8212; eliminating toil through relentless automation,
+  </text>
+  <text x="38" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="500" fill="#f1f5f9">
+    treating infrastructure strictly as code, and crafting systems designed to <tspan fill="#38bdf8" font-weight="700">scale without friction</tspan>.<tspan fill="#38bdf8" font-size="20" font-family="Georgia, serif">&#8221;</tspan>
+  </text>
+
+  <!-- Directive Chips (Bottom Left) -->
+  <!-- Chip 1: IaC & Cloud-Native -->
+  <g class="chip">
+    <rect x="28" y="128" width="138" height="24" rx="12" fill="#081426" stroke="#0284c7" stroke-width="0.9" />
+    <circle cx="39" cy="140" r="2.5" fill="#38bdf8" />
+    <text x="48" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" fill="#bae6fd" letter-spacing="0.3">IaC &amp; Cloud-Native</text>
+  </g>
+
+  <!-- Chip 2: Automated GitOps -->
+  <g class="chip">
+    <rect x="174" y="128" width="144" height="24" rx="12" fill="#081426" stroke="#0284c7" stroke-width="0.9" />
+    <circle cx="185" cy="140" r="2.5" fill="#38bdf8" />
+    <text x="194" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" fill="#bae6fd" letter-spacing="0.3">Automated GitOps</text>
+  </g>
+
+  <!-- Chip 3: Zero-Downtime SRE -->
+  <g class="chip">
+    <rect x="326" y="128" width="150" height="24" rx="12" fill="#081426" stroke="#0284c7" stroke-width="0.9" />
+    <circle cx="337" cy="140" r="2.5" fill="#38bdf8" />
+    <text x="346" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" fill="#bae6fd" letter-spacing="0.3">Zero-Downtime SRE</text>
+  </g>
+
+  <!-- Attribution & Signature Line (Bottom Right) -->
+  <text x="792" y="144" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#64748b">
+    <tspan fill="#38bdf8">&#8212;</tspan> <tspan fill="#f1f5f9">Joel Johnson BV</tspan> <tspan fill="#38bdf8">&#8226;</tspan> Cloud &amp; DevOps Engineer
   </text>
 </svg>
