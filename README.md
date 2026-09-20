@@ -61,16 +61,16 @@
 
 ---
 
-<h2 align="center">⚡ Executive Summary &amp; Production Impact</h2>
+<h2 align="center">⚡ Executive Summary &amp; Production Metrics</h2>
 
 <p align="center">
   <b>Joel Johnson BV</b> is an <b>Associate Cloud &amp; DevOps Engineer</b> based in Bangalore, India.<br />
-  Specialized in architecting highly available, multi-AZ cloud infrastructures on <b>AWS</b>, establishing resilient <b>Kubernetes / GitOps</b> workflows, and building automated zero-downtime <b>CI/CD pipelines</b>.
+  Specializing in <b>AWS Multi-AZ Cloud Architecture</b>, declarative <b>Infrastructure as Code (Terraform)</b>, enterprise <b>Kubernetes GitOps (Helm &amp; ArgoCD)</b>, and automated <b>DevSecOps CI/CD pipelines</b>.
 </p>
 
 <!-- Impact Metrics Grid -->
 <div align="center">
-  <table border="0" width="100%" style="max-width: 780px;">
+  <table border="0" width="100%" style="max-width: 820px;">
     <tr>
       <td align="center" width="25%" style="padding: 14px; background-color: #060d1a; border: 1px solid #0284c7; border-radius: 10px;">
         <h2 style="margin: 0; color: #38bdf8; font-size: 28px;">⚡ 37%</h2>
@@ -79,8 +79,8 @@
       </td>
       <td align="center" width="25%" style="padding: 14px; background-color: #060d1a; border: 1px solid #0284c7; border-radius: 10px;">
         <h2 style="margin: 0; color: #38bdf8; font-size: 28px;">🤖 92%</h2>
-        <p style="margin: 4px 0 0 0; color: #f1f5f9; font-weight: 600; font-size: 13px;">Toil Automated</p>
-        <p style="margin: 2px 0 0 0; color: #94a3b8; font-size: 11px;">Python Scripts &amp; Lambda Automation</p>
+        <p style="margin: 4px 0 0 0; color: #f1f5f9; font-weight: 600; font-size: 13px;">Operational Toil Eliminated</p>
+        <p style="margin: 2px 0 0 0; color: #94a3b8; font-size: 11px;">Python Automation &amp; Event Handlers</p>
       </td>
       <td align="center" width="25%" style="padding: 14px; background-color: #060d1a; border: 1px solid #0284c7; border-radius: 10px;">
         <h2 style="margin: 0; color: #38bdf8; font-size: 28px;">🚀 90%</h2>
@@ -89,7 +89,7 @@
       </td>
       <td align="center" width="25%" style="padding: 14px; background-color: #060d1a; border: 1px solid #0284c7; border-radius: 10px;">
         <h2 style="margin: 0; color: #38bdf8; font-size: 28px;">🛡️ 100%</h2>
-        <p style="margin: 4px 0 0 0; color: #f1f5f9; font-weight: 600; font-size: 13px;">Self-Healing Architecture</p>
+        <p style="margin: 4px 0 0 0; color: #f1f5f9; font-weight: 600; font-size: 13px;">Self-Healing Uptime</p>
         <p style="margin: 2px 0 0 0; color: #94a3b8; font-size: 11px;">ALB + ASG Multi-AZ Auto-Failover</p>
       </td>
     </tr>
@@ -98,31 +98,60 @@
 
 <br/>
 
-- 🔭 **Industry Track Record**: Cloud Intern alumnus at **F13 Technologies** (06/2025 – 07/2025) — engineered core AWS architectures with Terraform and built automated operational toolsets in Python.
-- ☁️ **Cloud Infrastructure as Code**: Proven expertise deploying fault-tolerant **AWS Multi-AZ environments** (VPC, EKS, ALB, ASG, RDS, S3) using **Terraform** for full infrastructure reproducibility.
-- ☸️ **Container Orchestration & GitOps**: Production-grade **Amazon EKS** cluster management, containerization with **Docker**, declarative deployments with **Helm**, and automated sync via **ArgoCD**.
-- 🔒 **DevSecOps & Shift-Left Security**: Integrated static analysis via **SonarQube** and vulnerability image scanning with **Trivy** into automated CI/CD gates.
-- 🔬 **Published IEEE Author (2025)**: Authored peer-reviewed research in **IEEE Xplore** on deep learning computer vision architectures for medical image disease classification.
+- 🔭 **Industry Track Record**: Cloud Intern alumnus at **F13 Technologies** (06/2025 – 07/2025) — provisioned core AWS resources with Terraform (cutting config time by **37%**) and automated routine operations in Python (reducing manual toil by **92%**).
+- ☁️ **Cloud Infrastructure as Code**: Hands-on mastery deploying fault-tolerant **AWS Multi-AZ architectures** (VPC, EKS, ALB, ASG, RDS, S3, IAM, Route 53) using **Terraform** with remote state locking and modular blueprints.
+- ☸️ **Container Orchestration & GitOps**: Production-grade **Amazon EKS** cluster configuration, containerization with **Docker**, declarative packaging via **Helm**, and automated synchronization with **ArgoCD**.
+- 🔒 **DevSecOps & Shift-Left Quality Gates**: Integrated automated static code analysis via **SonarQube** and container CVE scanning via **Trivy** to block vulnerabilities before staging/production.
+- 🔬 **Published IEEE Researcher (2025)**: Authored peer-reviewed research in **IEEE Xplore** on deep learning computer vision architectures for medical image disease classification.
 
 ---
 
-<h2 align="center">🔄 End-to-End DevOps &amp; GitOps Architecture</h2>
+<h2 align="center">🔄 Enterprise Cloud &amp; GitOps Architecture Blueprint</h2>
 
-```
-[ Developer Push ] ──────────> [ Jenkins CI / GitHub Actions ]
-                                      │
-                                      ├───> [ SonarQube Code Quality Analysis ]
-                                      ├───> [ Trivy Vulnerability Container Scan ]
-                                      │
-                                      ▼
-[ Docker Hub Registry ] ──────> [ ArgoCD Declarative Sync ]
-                                      │
-                                      ▼
-             [ Amazon EKS / Multi-AZ AWS Infrastructure ]
-             ├── ALB (Application Load Balancer)
-             ├── ASG (Self-Healing Auto-Scaling Groups)
-             └── Observability: [ Prometheus + Grafana + CloudWatch ]
-```
+<p align="center">
+  <img src="assets/architecture.svg" width="100%" style="max-width: 860px;" alt="Enterprise GitOps &amp; Cloud Infrastructure Architecture" />
+</p>
+
+### 🛠️ Architecture Workflow Breakdown
+1. **Source & Version Control**: Trunk-based Git workflow on GitHub with branch protection rules, signed commits, and webhook dispatch.
+2. **Automated CI & DevSecOps Gateways**: Jenkins Declarative Pipelines trigger multi-stage Docker builds, enforce SonarQube quality gates (zero code smells/vulnerabilities), and run Trivy image scans (blocking critical CVEs).
+3. **Artifact Registry & GitOps Engine**: Immutable Docker images published to Docker Hub tagged with commit SHAs; ArgoCD continuously monitors Git Helm repositories for desired state changes.
+4. **Cloud Infrastructure & Observability**: Zero-downtime rolling deployment onto Amazon EKS across multiple Availability Zones with Application Load Balancers, self-healing Auto Scaling Groups, and telemetry monitoring via Prometheus & Grafana.
+
+---
+
+<h2 align="center">🏛️ Core Architectural Directives &amp; Engineering Tenets</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h4>🏗️ Immutable Infrastructure (IaC First)</h4>
+      <p>
+        Zero manual changes on production servers or clusters. Every AWS component, VPC subnet, security group, and route table is declared in version-controlled <strong>Terraform</strong> modules with remote S3 state backends and DynamoDB distributed locks.
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h4>🔄 Declarative GitOps &amp; Zero-Downtime</h4>
+      <p>
+        Git serves as the single source of truth for all Kubernetes workloads. Using <strong>Helm Charts</strong> and <strong>ArgoCD</strong>, cluster state automatically reconciles against Git repositories with automated rollback triggers on health-check failure.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h4>🛡️ Shift-Left DevSecOps &amp; Least Privilege</h4>
+      <p>
+        Security is integrated directly into the CI pipeline. Static code quality analysis via <strong>SonarQube</strong> and image vulnerability scanning via <strong>Trivy</strong> catch vulnerabilities before code reaches production, backed by strict <strong>AWS IAM</strong> least-privilege policies.
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h4>📈 Observability-Driven Site Reliability (SRE)</h4>
+      <p>
+        Proactive telemetry over reactive firefighting. Systems instrumented with <strong>Prometheus</strong> scrapers and custom <strong>Grafana</strong> dashboards to monitor Golden Signals (Latency, Traffic, Errors, Saturation) with real-time Slack/CloudWatch alerts.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -159,7 +188,7 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
 
 ---
 
-<h2 align="center">🛠️ Technical Competencies &amp; Toolchain</h2>
+<h2 align="center">🛠️ Technical Competencies &amp; Production Toolchain</h2>
 
 <p align="center"><b>Cloud, Containers &amp; Orchestration</b></p>
 <p align="center">
@@ -239,7 +268,7 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
 
 ---
 
-<h2 align="center">🌟 Featured Production Architectures &amp; Deployments</h2>
+<h2 align="center">🌟 Featured Production Architectures &amp; Deep-Dives</h2>
 
 <!-- Featured Project 1 -->
 <table width="100%" border="0" align="center">
@@ -247,12 +276,13 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
     <td width="65%" style="padding: 16px;">
       <h3>🏗️ Event Register Infrastructure (Self-Healing AWS Multi-AZ)</h3>
       <p>
-        Production-ready <strong>Infrastructure as Code (IaC)</strong> and automated <strong>CI/CD pipeline</strong> deployed across AWS multi-AZ environment using <strong>Terraform</strong> and <strong>Jenkins</strong>.
+        Production-ready <strong>Infrastructure as Code (IaC)</strong> and automated <strong>CI/CD pipeline</strong> deployed across an AWS multi-AZ environment using <strong>Terraform</strong> and <strong>Jenkins</strong>.
       </p>
       <ul>
-        <li>Architected <strong>Application Load Balancers (ALB)</strong> and <strong>Auto Scaling Groups (ASG)</strong> across multiple availability zones for high availability and zero-downtime traffic balancing.</li>
-        <li>Demonstrated <strong>100% automated self-healing</strong>: simulated EC2 instance failure tests triggered automatic health-check termination and healthy replacement with zero manual intervention.</li>
-        <li>Automated container packaging, pipeline testing, and rolling continuous delivery via Jenkins.</li>
+        <li><strong>Multi-AZ Fault-Tolerance</strong>: Configured customized VPC subnet tiers (Public/Private), Internet Gateway, and NAT Gateways across multiple Availability Zones to eliminate single points of failure.</li>
+        <li><strong>Automated Traffic Balancing &amp; Self-Healing</strong>: Application Load Balancer (ALB) health checks paired with Auto Scaling Groups (ASG) dynamically terminate unhealthy EC2 instances and spin up healthy replacements with zero user downtime.</li>
+        <li><strong>Chaos Engineering Validation</strong>: Simulated unplanned instance crash events; ALB immediately rerouted traffic to healthy peer instances in alternative AZs with zero request drops.</li>
+        <li><strong>Declarative IaC</strong>: 100% codified in Terraform with parameterized modules, remote S3 state storage, and DynamoDB state locking.</li>
       </ul>
       <p>
         <a href="https://github.com/jojohnoson/Event-Register-Infra" target="_blank">
@@ -280,12 +310,12 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
     <td width="65%" style="padding: 16px;">
       <h3>🎟️ Event Register App (Cloud-Native Event &amp; Ticketing Platform)</h3>
       <p>
-        Full-stack modern <strong>Event Registration &amp; Ticketing Platform</strong> built with <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Docker</strong> — enabling high-throughput ticketing workflows and attendee management.
+        Full-stack modern <strong>Event Registration &amp; Ticketing Platform</strong> built with <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Docker</strong> — enabling high-throughput ticketing workflows and attendee credential management.
       </p>
       <ul>
-        <li>Engineered with <strong>Next.js App Router</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong> for blazing-fast response times and responsive UI.</li>
-        <li>Fully containerized using <strong>Docker</strong> for development-to-production parity; automated continuous deployments on <strong>Vercel</strong>.</li>
-        <li>Implemented modular component architecture with client/server validation, state management, and strict TypeScript type-safety.</li>
+        <li><strong>Architecture &amp; Performance</strong>: Built on Next.js 14 App Router, React Server Components, and Tailwind CSS for optimized server-side rendering, sub-second TTFB, and responsive client interactions.</li>
+        <li><strong>Containerization &amp; Parity</strong>: Fully containerized with multi-stage Docker builds to ensure identical runtimes across local testing, CI validation, and production.</li>
+        <li><strong>Automated Delivery</strong>: Continuous deployment pipeline configured on Vercel with automatic pull request previews, edge middleware, and rigorous type-checking.</li>
       </ul>
       <p>
         <a href="https://github.com/jojohnoson/Event-Register-App" target="_blank">
@@ -307,7 +337,7 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
 
 ---
 
-<h2 align="center">🚀 Key Engineering Projects</h2>
+<h2 align="center">🚀 Key Engineering Projects &amp; Research</h2>
 
 <table width="100%">
   <thead>
@@ -322,9 +352,9 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
     <tr>
       <td><strong>🌐 Three-Tier EKS GitOps Deployment</strong></td>
       <td>
-        • Managed secure production-grade <strong>Amazon EKS</strong> multi-tier workloads.<br/>
-        • Implemented GitOps Continuous Delivery using <strong>Helm &amp; ArgoCD</strong> with automated sync.<br/>
-        • Configured automated Slack alerts for real-time deployment observability and health checks.
+        • Provisioned and hardened production-grade <strong>Amazon EKS</strong> clusters across multiple AZs.<br/>
+        • Implemented GitOps Continuous Delivery using <strong>Helm &amp; ArgoCD</strong> with automated drift correction.<br/>
+        • Integrated automated Slack alerts and health check probes for end-to-end cluster observability.
       </td>
       <td><code>Kubernetes</code> <code>EKS</code> <code>Helm</code> <code>ArgoCD</code> <code>Jenkins</code></td>
       <td>
@@ -336,9 +366,9 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
     <tr>
       <td><strong>⚡ RegisterApp Automated CI/CD Pipeline</strong></td>
       <td>
-        • Engineered end-to-end automated Jenkins &amp; Docker CI/CD pipeline for enterprise Java apps.<br/>
+        • Engineered end-to-end automated Jenkins &amp; Docker CI/CD pipeline for enterprise Java applications.<br/>
         • Enabled zero-downtime rolling deployments and automated rollbacks via single Git push.<br/>
-        • <strong>Reduced manual deployment time by 90%</strong>.
+        • <strong>Reduced manual deployment time by 90%</strong> while eliminating configuration drift.
       </td>
       <td><code>Jenkins</code> <code>Docker</code> <code>Java</code> <code>AWS</code> <code>Git</code></td>
       <td>
@@ -353,8 +383,8 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
     <tr>
       <td><strong>💻 Modern Developer Portfolio</strong></td>
       <td>
-        • High-performance, responsive personal portfolio showcasing production architectures and experience.<br/>
-        • Clean aesthetic built with modern web principles, optimized for speed and user experience.
+        • High-performance, SEO-optimized personal portfolio showcasing infrastructure architectures and experience.<br/>
+        • Clean responsive aesthetic built with modern web principles, optimized for sub-second page loads.
       </td>
       <td><code>React</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Vercel</code></td>
       <td>
