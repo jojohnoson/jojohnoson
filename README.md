@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://welcometotheportfolio.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=680&height=45&lines=Hi+there!+I'm+Joel+Johnson+BV;Associate+Cloud+Engineer+%26+DevOps+Engineer;Infrastructure+as+Code+%26+Terraform+Architect;CI%2FCD+Automation+%26+GitOps+Engineer;IEEE-Published+Deep+Learning+Researcher;Building+resilient%2C+fault-tolerant+cloud+systems" width="100%" style="max-width: 680px;" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=680&height=45&lines=Hi+there!+I'm+Joel+Johnson+BV;Associate+Cloud+Engineer+%26+DevOps+Engineer;Infrastructure+as+Code+%26+Terraform+Architect;CI%2FCD+Automation+%26+GitOps+Engineer;IEEE-Published+Deep+Learning+Researcher;Building+resilient%2C+fault-tolerant+cloud+systems" width="100%" style="max-width: 680px;" alt="Typing SVG" />
 </p>
 
 <!-- Social & Primary Navigation Badges -->
@@ -103,20 +101,6 @@
 - ☸️ **Container Orchestration & GitOps**: Production-grade **Amazon EKS** cluster configuration, containerization with **Docker**, declarative packaging via **Helm**, and automated synchronization with **ArgoCD**.
 - 🔒 **DevSecOps & Shift-Left Quality Gates**: Integrated automated static code analysis via **SonarQube** and container CVE scanning via **Trivy** to block vulnerabilities before staging/production.
 - 🔬 **Published IEEE Researcher (2025)**: Authored peer-reviewed research in **IEEE Xplore** on deep learning computer vision architectures for medical image disease classification.
-
----
-
-<h2 align="center">🔄 Enterprise Cloud &amp; GitOps Architecture Blueprint</h2>
-
-<p align="center">
-  <img src="assets/architecture.svg" width="100%" style="max-width: 860px;" alt="Enterprise GitOps &amp; Cloud Infrastructure Architecture" />
-</p>
-
-### 🛠️ Architecture Workflow Breakdown
-1. **Source & Version Control**: Trunk-based Git workflow on GitHub with branch protection rules, signed commits, and webhook dispatch.
-2. **Automated CI & DevSecOps Gateways**: Jenkins Declarative Pipelines trigger multi-stage Docker builds, enforce SonarQube quality gates (zero code smells/vulnerabilities), and run Trivy image scans (blocking critical CVEs).
-3. **Artifact Registry & GitOps Engine**: Immutable Docker images published to Docker Hub tagged with commit SHAs; ArgoCD continuously monitors Git Helm repositories for desired state changes.
-4. **Cloud Infrastructure & Observability**: Zero-downtime rolling deployment onto Amazon EKS across multiple Availability Zones with Application Load Balancers, self-healing Auto Scaling Groups, and telemetry monitoring via Prometheus & Grafana.
 
 ---
 
@@ -268,7 +252,7 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
 
 ---
 
-<h2 align="center">🌟 Featured Production Architectures (Live Architecture Telemetry)</h2>
+<h2 align="center">🌟 Featured Production Architectures &amp; Live Demos</h2>
 
 <!-- Featured Project 1: Event Register Infra -->
 <table width="100%" border="0" align="center">
@@ -285,7 +269,16 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
         <li><strong>Declarative IaC</strong>: 100% codified in Terraform with parameterized modules, remote S3 state storage, and DynamoDB state locking.</li>
       </ul>
       <p align="center">
-        <img src="assets/project-infra.svg" width="100%" alt="AWS Multi-AZ Chaos Test &amp; Self-Healing Telemetry" />
+        <img src="assets/project-infra.svg" width="100%" alt="AWS Multi-AZ Self-Healing Architecture — Chaos Test & Failover Telemetry Diagram" />
+      </p>
+      <p align="center">
+        <a href="https://www.linkedin.com/posts/joejohnson25_aws-terraform-devops-activity-7462949469379084289-1z6j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD94cbUBd_JDlWggYfjL38ni6NPTo80GIfc" target="_blank">
+          <img src="https://img.shields.io/badge/🎬_Watch_Live_Video_Demo-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060d1b" alt="Watch Live Demo" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/jojohnoson/Event-Register-Infra" target="_blank">
+          <img src="https://img.shields.io/badge/💻_View_Source_Code-GitHub-111111?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=060d1b" alt="View Source Code" />
+        </a>
       </p>
     </td>
   </tr>
@@ -297,7 +290,7 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
 <table width="100%" border="0" align="center">
   <tr>
     <td style="padding: 16px;">
-      <h3>🌐 Three-Tier EKS GitOps Continuous Delivery Platform</h3>
+      <h3>🌐 Three-Tier EKS GitOps Continuous Delivery Platform (Production-Grade)</h3>
       <p>
         Enterprise-ready <strong>Kubernetes GitOps Platform</strong> managing 3-tier microservices on <strong>Amazon EKS</strong> using <strong>Helm Charts</strong> and <strong>ArgoCD</strong> for declarative continuous deployment and automated self-healing.
       </p>
@@ -307,7 +300,16 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
         <li><strong>Real-Time Observability &amp; Alerting</strong>: Integrated Prometheus pod scrapers and Grafana dashboards for cluster-wide saturation tracking and automated Slack webhook deployment notifications.</li>
       </ul>
       <p align="center">
-        <img src="assets/project-eks.svg" width="100%" alt="Kubernetes GitOps Pipeline: Amazon EKS, Helm &amp; ArgoCD" />
+        <img src="assets/project-eks.svg" width="100%" alt="Kubernetes GitOps Pipeline: Amazon EKS, Helm & ArgoCD Architecture Diagram" />
+      </p>
+      <p align="center">
+        <a href="https://www.linkedin.com/posts/joejohnson25_devops-ciabrcd-jenkins-activity-7498104193828724736-p1uY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD94cbUBd_JDlWggYfjL38ni6NPTo80GIfc" target="_blank">
+          <img src="https://img.shields.io/badge/🎬_Watch_CI%2FCD_Video_Demo-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060d1b" alt="Watch CI/CD Video Demo" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/jojohnoson/3-tier-Application-Deployment-Production-Grade-" target="_blank">
+          <img src="https://img.shields.io/badge/💻_View_Source_Code-GitHub-111111?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=060d1b" alt="View Source Code" />
+        </a>
       </p>
     </td>
   </tr>
@@ -329,7 +331,16 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
         <li><strong>Edge Global Delivery</strong>: Edge caching and global CDN distribution with edge middleware, strict TypeScript validation, and atomic rollouts.</li>
       </ul>
       <p align="center">
-        <img src="assets/project-app.svg" width="100%" alt="Cloud-Native Event Platform: Next.js 14, TypeScript &amp; Docker" />
+        <img src="assets/project-app.svg" width="100%" alt="Cloud-Native Event Platform: Next.js 14, TypeScript & Docker Architecture Diagram" />
+      </p>
+      <p align="center">
+        <a href="https://eventhubmanagementapp.vercel.app/events" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Launch_Live_Application-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=060d1b" alt="Launch Live Application" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/jojohnoson/Event-Register-App" target="_blank">
+          <img src="https://img.shields.io/badge/💻_View_Source_Code-GitHub-111111?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=060d1b" alt="View Source Code" />
+        </a>
       </p>
     </td>
   </tr>
