@@ -370,10 +370,6 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
   </table>
 </div>
 
-<p align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 770px;" alt="DevOps Engineering Philosophy &amp; Directives" />
-</p>
-
 ---
 
 <h2 align="center">🤝 Let's Connect &amp; Collaborate</h2>
