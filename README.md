@@ -38,7 +38,11 @@
   </a>
   &nbsp;
   <a href="https://www.credly.com/badges/9b669524-39bd-4f6c-9bb1-46917cb2b568/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Partial_Certified_(Cloud_Quest)-0284C7?style=flat-square&logo=amazonaws&logoColor=white&labelColor=060d1b" alt="AWS Partial Certified" />
+    <img src="https://img.shields.io/badge/AWS-Certified_(Cloud_Quest)-0284C7?style=flat-square&logo=amazonaws&logoColor=white&labelColor=060d1b" alt="AWS Certified" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/be71d690-04d2-4707-9954-1c5c5f03b96e/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-Certified_(Essentials)-0284C7?style=flat-square&logo=linux&logoColor=white&labelColor=060d1b" alt="Linux Certified" />
   </a>
   &nbsp;
   <a href="https://www.karunya.edu/" target="_blank">
@@ -57,57 +61,105 @@
 
 ---
 
-<h2 align="center">🔷 About Me &amp; Professional Summary</h2>
+<h2 align="center">⚡ Executive Summary &amp; Production Impact</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=620&height=28&lines=Automating+infrastructure.+Scaling+resilience.+Engineering+the+cloud." width="100%" style="max-width: 620px;" alt="Typing Quote" />
+  <b>Joel Johnson BV</b> is an <b>Associate Cloud &amp; DevOps Engineer</b> based in Bangalore, India.<br />
+  Specialized in architecting highly available, multi-AZ cloud infrastructures on <b>AWS</b>, establishing resilient <b>Kubernetes / GitOps</b> workflows, and building automated zero-downtime <b>CI/CD pipelines</b>.
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
-</p>
+<!-- Impact Metrics Grid -->
+<div align="center">
+  <table border="0" width="100%" style="max-width: 780px;">
+    <tr>
+      <td align="center" width="25%" style="padding: 14px; background-color: #060d1a; border: 1px solid #0284c7; border-radius: 10px;">
+        <h2 style="margin: 0; color: #38bdf8; font-size: 28px;">⚡ 37%</h2>
+        <p style="margin: 4px 0 0 0; color: #f1f5f9; font-weight: 600; font-size: 13px;">IaC Config Reduction</p>
+        <p style="margin: 2px 0 0 0; color: #94a3b8; font-size: 11px;">Terraform Modular AWS Blueprints</p>
+      </td>
+      <td align="center" width="25%" style="padding: 14px; background-color: #060d1a; border: 1px solid #0284c7; border-radius: 10px;">
+        <h2 style="margin: 0; color: #38bdf8; font-size: 28px;">🤖 92%</h2>
+        <p style="margin: 4px 0 0 0; color: #f1f5f9; font-weight: 600; font-size: 13px;">Toil Automated</p>
+        <p style="margin: 2px 0 0 0; color: #94a3b8; font-size: 11px;">Python Scripts &amp; Lambda Automation</p>
+      </td>
+      <td align="center" width="25%" style="padding: 14px; background-color: #060d1a; border: 1px solid #0284c7; border-radius: 10px;">
+        <h2 style="margin: 0; color: #38bdf8; font-size: 28px;">🚀 90%</h2>
+        <p style="margin: 4px 0 0 0; color: #f1f5f9; font-weight: 600; font-size: 13px;">Faster Deployments</p>
+        <p style="margin: 2px 0 0 0; color: #94a3b8; font-size: 11px;">Zero-Downtime Jenkins &amp; Docker CI/CD</p>
+      </td>
+      <td align="center" width="25%" style="padding: 14px; background-color: #060d1a; border: 1px solid #0284c7; border-radius: 10px;">
+        <h2 style="margin: 0; color: #38bdf8; font-size: 28px;">🛡️ 100%</h2>
+        <p style="margin: 4px 0 0 0; color: #f1f5f9; font-weight: 600; font-size: 13px;">Self-Healing Architecture</p>
+        <p style="margin: 2px 0 0 0; color: #94a3b8; font-size: 11px;">ALB + ASG Multi-AZ Auto-Failover</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  Hey! I'm <b>Joel Johnson BV</b>, an <b>Associate Cloud &amp; DevOps Engineer</b> based in Bangalore, India.<br />
-  I specialize in architecting highly available, fault-tolerant cloud infrastructure, automating end-to-end CI/CD pipelines, and managing Kubernetes workloads.
-</p>
+<br/>
 
-> <i>"I believe in building scalable, automated, and reliable infrastructure that enables teams to ship features faster and operate with confidence. DevOps is not just about tools — it's about culture, automation, and continuous improvement."</i>
-
-- 🔭 **Industry Experience**: Cloud Intern alumnus at **F13 Technologies** (06/2025 – 07/2025) — provisioned core AWS resources with Terraform (cutting config time by **37%**) and automated routine ops in Python (reducing toil by **92%**).
-- ☁️ **Cloud & Infrastructure**: Hands-on expertise architecting fault-tolerant **AWS Multi-AZ deployments** using Terraform IaC and managing production-grade **Amazon EKS** workloads using **Helm** and **ArgoCD**.
-- 🚀 **Automation & CI/CD**: Engineered end-to-end CI/CD pipelines in **Jenkins** enabling zero-downtime deployments and **90% faster release cycles**.
-- 🔬 **Published Research**: Author in **IEEE (2025)** on deep learning vision models for gastrointestinal endoscopic disease prediction.
-- 🎯 **Current Focus**: Kubernetes orchestration, GitOps workflows, automated self-healing infrastructure, and cloud security observability.
+- 🔭 **Industry Track Record**: Cloud Intern alumnus at **F13 Technologies** (06/2025 – 07/2025) — engineered core AWS architectures with Terraform and built automated operational toolsets in Python.
+- ☁️ **Cloud Infrastructure as Code**: Proven expertise deploying fault-tolerant **AWS Multi-AZ environments** (VPC, EKS, ALB, ASG, RDS, S3) using **Terraform** for full infrastructure reproducibility.
+- ☸️ **Container Orchestration & GitOps**: Production-grade **Amazon EKS** cluster management, containerization with **Docker**, declarative deployments with **Helm**, and automated sync via **ArgoCD**.
+- 🔒 **DevSecOps & Shift-Left Security**: Integrated static analysis via **SonarQube** and vulnerability image scanning with **Trivy** into automated CI/CD gates.
+- 🔬 **Published IEEE Author (2025)**: Authored peer-reviewed research in **IEEE Xplore** on deep learning computer vision architectures for medical image disease classification.
 
 ---
 
-<h2 align="center">⚡ Quick Overview</h2>
+<h2 align="center">🔄 End-to-End DevOps &amp; GitOps Architecture</h2>
 
-```yaml
-name: Joel Johnson BV
-roles:
-  - Associate Cloud Engineer
-  - Junior DevOps Engineer
-  - Site Reliability Engineer (SRE)
-education:
-  degree: B.Tech in Computer Science & Engineering (Specialization in AI)
-  institution: Karunya Institute of Technology and Sciences, Coimbatore
-  graduation: 2026
-experience:
-  recent: Cloud Intern @ F13 Technologies (06/2025 - 07/2025)
-location: Bangalore, India
-core_focus:
-  - Infrastructure as Code (Terraform)
-  - Cloud Architecture (AWS Multi-AZ, EKS)
-  - CI/CD Automation & GitOps (Jenkins, Docker, Helm, ArgoCD)
-  - Reliability & SRE (ALB/ASG Self-Healing, Prometheus, Grafana)
-seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Consulting
+```
+[ Developer Push ] ──────────> [ Jenkins CI / GitHub Actions ]
+                                      │
+                                      ├───> [ SonarQube Code Quality Analysis ]
+                                      ├───> [ Trivy Vulnerability Container Scan ]
+                                      │
+                                      ▼
+[ Docker Hub Registry ] ──────> [ ArgoCD Declarative Sync ]
+                                      │
+                                      ▼
+             [ Amazon EKS / Multi-AZ AWS Infrastructure ]
+             ├── ALB (Application Load Balancer)
+             ├── ASG (Self-Healing Auto-Scaling Groups)
+             └── Observability: [ Prometheus + Grafana + CloudWatch ]
 ```
 
 ---
 
-<h2 align="center">🛠️ Technical Skills &amp; Tech Stack</h2>
+<h2 align="center">📋 System Specification &amp; Profile Metadata</h2>
+
+```yaml
+engineer:
+  name: Joel Johnson BV
+  title: Associate Cloud & DevOps Engineer
+  focus: Infrastructure as Code, Cloud Architecture, GitOps & SRE
+  location: Bangalore, India
+
+credentials:
+  education: B.Tech in CSE (Specialization in AI), Karunya Institute of Technology ('26)
+  certifications:
+    - AWS Cloud Quest: Cloud Practitioner
+    - Linux Foundation: Linux Essentials
+    - NPTEL: Cloud Computing Certification
+    - Cisco: Computer Networking Certification
+  publications:
+    - title: "Endoscopic Image-Based Deep Learning Approach for Predicting Gastrointestinal Diseases"
+      publisher: IEEE Xplore (2025)
+
+technical_domains:
+  cloud_platforms: [AWS (EKS, VPC, EC2, ALB, ASG, RDS, S3, IAM, Lambda, Route 53)]
+  iac_provisioning: [Terraform, Ansible]
+  orchestration_gitops: [Kubernetes, Docker, Helm, ArgoCD]
+  ci_cd_pipelines: [Jenkins, GitHub Actions, Maven]
+  security_observability: [SonarQube, Trivy, Prometheus, Grafana, AWS CloudWatch]
+  scripting_languages: [Python, Bash Shell, TypeScript, Java]
+
+availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Consulting
+```
+
+---
+
+<h2 align="center">🛠️ Technical Competencies &amp; Toolchain</h2>
 
 <p align="center"><b>Cloud, Containers &amp; Orchestration</b></p>
 <p align="center">
@@ -132,7 +184,7 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
 
 <table align="center" width="100%">
   <tr>
-    <td align="left" width="25%"><strong>☁️ Cloud &amp; IaC</strong></td>
+    <td align="left" width="24%"><strong>☁️ Cloud &amp; IaC</strong></td>
     <td align="left">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
@@ -147,7 +199,7 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
     </td>
   </tr>
   <tr>
-    <td align="left" width="25%"><strong>⚙️ DevOps &amp; Containers</strong></td>
+    <td align="left" width="24%"><strong>⚙️ DevOps &amp; Containers</strong></td>
     <td align="left">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -156,11 +208,11 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
       <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
       <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
     </td>
   </tr>
   <tr>
-    <td align="left" width="25%"><strong>🛡️ Security &amp; Observability</strong></td>
+    <td align="left" width="24%"><strong>🛡️ Security &amp; Observability</strong></td>
     <td align="left">
       <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
       <img src="https://img.shields.io/badge/Trivy-0052CC?style=flat-square&logo=aqua-security&logoColor=white" alt="Trivy" />
@@ -171,13 +223,13 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
     </td>
   </tr>
   <tr>
-    <td align="left" width="25%"><strong>💻 Languages &amp; Web</strong></td>
+    <td align="left" width="24%"><strong>💻 Languages &amp; Web</strong></td>
     <td align="left">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -187,19 +239,20 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
 
 ---
 
-<h2 align="center">🌟 Featured Project Spotlight</h2>
+<h2 align="center">🌟 Featured Production Architectures &amp; Deployments</h2>
 
+<!-- Featured Project 1 -->
 <table width="100%" border="0" align="center">
   <tr>
     <td width="65%" style="padding: 16px;">
-      <h3>🏗️ Event Register Infrastructure (Self-Healing AWS Architecture)</h3>
+      <h3>🏗️ Event Register Infrastructure (Self-Healing AWS Multi-AZ)</h3>
       <p>
-        Production-grade <strong>Infrastructure as Code (IaC)</strong> and automated <strong>CI/CD pipeline</strong> built on AWS multi-AZ environment using <strong>Terraform</strong> and <strong>Jenkins</strong>.
+        Production-ready <strong>Infrastructure as Code (IaC)</strong> and automated <strong>CI/CD pipeline</strong> deployed across AWS multi-AZ environment using <strong>Terraform</strong> and <strong>Jenkins</strong>.
       </p>
       <ul>
-        <li>Configured <strong>Application Load Balancers (ALB)</strong> and <strong>Auto Scaling Groups (ASG)</strong> for high availability and automated failover.</li>
-        <li>Achieved <strong>100% automated self-healing</strong>: simulated EC2 instance crash tests triggered automated instance replacement with zero manual intervention.</li>
-        <li>Integrated automated testing, Docker containerization, and continuous delivery via Jenkins.</li>
+        <li>Architected <strong>Application Load Balancers (ALB)</strong> and <strong>Auto Scaling Groups (ASG)</strong> across multiple availability zones for high availability and zero-downtime traffic balancing.</li>
+        <li>Demonstrated <strong>100% automated self-healing</strong>: simulated EC2 instance failure tests triggered automatic health-check termination and healthy replacement with zero manual intervention.</li>
+        <li>Automated container packaging, pipeline testing, and rolling continuous delivery via Jenkins.</li>
       </ul>
       <p>
         <a href="https://github.com/jojohnoson/Event-Register-Infra" target="_blank">
@@ -221,17 +274,18 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
 
 <br/>
 
+<!-- Featured Project 2 -->
 <table width="100%" border="0" align="center">
   <tr>
     <td width="65%" style="padding: 16px;">
-      <h3>🎟️ Event Register App (Cloud-Native Event Platform)</h3>
+      <h3>🎟️ Event Register App (Cloud-Native Event &amp; Ticketing Platform)</h3>
       <p>
-        Full-stack modern <strong>Event Registration &amp; Ticketing Platform</strong> built with <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Docker</strong> — enabling users to acquire bespoke credentials and reserve priority track admissions.
+        Full-stack modern <strong>Event Registration &amp; Ticketing Platform</strong> built with <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Docker</strong> — enabling high-throughput ticketing workflows and attendee management.
       </p>
       <ul>
-        <li>Engineered with <strong>Next.js App Router</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong> for responsive, high-performance UI and seamless event booking.</li>
-        <li>Fully containerized using <strong>Docker</strong> for environment parity and deployed continuously with automated CI/CD on <strong>Vercel</strong>.</li>
-        <li>Integrated modular component architecture with client/server validation, robust state management, and end-to-end type safety.</li>
+        <li>Engineered with <strong>Next.js App Router</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong> for blazing-fast response times and responsive UI.</li>
+        <li>Fully containerized using <strong>Docker</strong> for development-to-production parity; automated continuous deployments on <strong>Vercel</strong>.</li>
+        <li>Implemented modular component architecture with client/server validation, state management, and strict TypeScript type-safety.</li>
       </ul>
       <p>
         <a href="https://github.com/jojohnoson/Event-Register-App" target="_blank">
@@ -253,13 +307,13 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
 
 ---
 
-<h2 align="center">🚀 Key Projects &amp; Deployments</h2>
+<h2 align="center">🚀 Key Engineering Projects</h2>
 
 <table width="100%">
   <thead>
     <tr>
       <th>Project</th>
-      <th>Key Highlights &amp; Impact</th>
+      <th>Key Highlights &amp; Production Impact</th>
       <th>Tech Stack</th>
       <th>Links</th>
     </tr>
@@ -268,9 +322,9 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
     <tr>
       <td><strong>🌐 Three-Tier EKS GitOps Deployment</strong></td>
       <td>
-        • Managed secure production-grade <strong>Amazon EKS</strong> clusters.<br/>
-        • Implemented GitOps Continuous Delivery using <strong>Helm &amp; ArgoCD</strong>.<br/>
-        • Configured automated Slack alerts for instant deployment observability.
+        • Managed secure production-grade <strong>Amazon EKS</strong> multi-tier workloads.<br/>
+        • Implemented GitOps Continuous Delivery using <strong>Helm &amp; ArgoCD</strong> with automated sync.<br/>
+        • Configured automated Slack alerts for real-time deployment observability and health checks.
       </td>
       <td><code>Kubernetes</code> <code>EKS</code> <code>Helm</code> <code>ArgoCD</code> <code>Jenkins</code></td>
       <td>
@@ -282,7 +336,7 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
     <tr>
       <td><strong>⚡ RegisterApp Automated CI/CD Pipeline</strong></td>
       <td>
-        • Engineered end-to-end automated Jenkins &amp; Docker CI/CD pipeline for Java apps.<br/>
+        • Engineered end-to-end automated Jenkins &amp; Docker CI/CD pipeline for enterprise Java apps.<br/>
         • Enabled zero-downtime rolling deployments and automated rollbacks via single Git push.<br/>
         • <strong>Reduced manual deployment time by 90%</strong>.
       </td>
@@ -299,8 +353,8 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
     <tr>
       <td><strong>💻 Modern Developer Portfolio</strong></td>
       <td>
-        • High-performance, SEO-optimized personal portfolio showcasing projects, experience, and contact channels.<br/>
-        • Clean responsive UI built with modern web principles.
+        • High-performance, responsive personal portfolio showcasing production architectures and experience.<br/>
+        • Clean aesthetic built with modern web principles, optimized for speed and user experience.
       </td>
       <td><code>React</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Vercel</code></td>
       <td>
@@ -313,7 +367,7 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
       </td>
     </tr>
     <tr>
-      <td><strong>🔬 Deep Learning Gastrointestinal Disease Prediction</strong></td>
+      <td><strong>🔬 Deep Learning Medical Vision System</strong></td>
       <td>
         • Engineered an advanced deep learning computer vision model for endoscopic disease classification.<br/>
         • Published in <strong>IEEE (2025)</strong>: <em>Endoscopic Image-Based Deep Learning Approach for Predicting Gastrointestinal Diseases</em>.
@@ -339,8 +393,8 @@ seeking: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure Cons
 
 | Category | Certificate / Publication Title | Issuing Body | Verification Link |
 |:---:|:---|:---|:---:|
-| ☁️ | **AWS Cloud Quest: Cloud Practitioner (Partial Certified)** | Amazon Web Services (AWS) | [**Verify Credly**](https://www.credly.com/badges/9b669524-39bd-4f6c-9bb1-46917cb2b568/public_url) |
-| 🐧 | **Linux Essentials Badge** | Linux Foundation | [**Verify Credly**](https://www.credly.com/badges/be71d690-04d2-4707-9954-1c5c5f03b96e/public_url) |
+| ☁️ | **AWS Cloud Quest: Cloud Practitioner** | Amazon Web Services (AWS) | [**Verify Credly**](https://www.credly.com/badges/9b669524-39bd-4f6c-9bb1-46917cb2b568/public_url) |
+| 🐧 | **Linux Essentials Certification** | Linux Foundation | [**Verify Credly**](https://www.credly.com/badges/be71d690-04d2-4707-9954-1c5c5f03b96e/public_url) |
 | 🌐 | **Cloud Computing Certification** | NPTEL | [**View Certificate**](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs118/Course/NPTEL24CS118S15240234804069928.pdf) |
 | 🔌 | **Computer Networking** | CISCO | [**View Credential**](https://www.linkedin.com/posts/joejohnson25_cisco-networking-careergrowth-activity-7219338029851717632-fWts?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD94cbUBd_JDlWggYfjL38ni6NPTo80GIfc) |
 | 💻 | **Full-Stack Web Development** | Internshala | [**View Credential**](https://www.linkedin.com/posts/joejohnson25_webdevelopment-internship-careergrowth-activity-7219336917622960128-5d4I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD94cbUBd_JDlWggYfjL38ni6NPTo80GIfc) |
