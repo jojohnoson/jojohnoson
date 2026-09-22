@@ -303,10 +303,6 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
         <img src="assets/project-eks.svg" width="100%" alt="Kubernetes GitOps Pipeline: Amazon EKS, Helm & ArgoCD Architecture Diagram" />
       </p>
       <p align="center">
-        <a href="https://www.linkedin.com/posts/joejohnson25_devops-ciabrcd-jenkins-activity-7498104193828724736-p1uY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD94cbUBd_JDlWggYfjL38ni6NPTo80GIfc" target="_blank">
-          <img src="https://img.shields.io/badge/🎬_Watch_CI%2FCD_Video_Demo-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060d1b" alt="Watch CI/CD Video Demo" />
-        </a>
-        &nbsp;&nbsp;
         <a href="https://github.com/jojohnoson/3-tier-Application-Deployment-Production-Grade-" target="_blank">
           <img src="https://img.shields.io/badge/💻_View_Source_Code-GitHub-111111?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=060d1b" alt="View Source Code" />
         </a>
@@ -317,7 +313,38 @@ availability: Full-time Associate Cloud / DevOps Engineer Roles & Infrastructure
 
 <br/>
 
-<!-- Featured Project 3: Event Register App -->
+<!-- Featured Project 3: Automated Zero-Downtime CI/CD Pipeline -->
+<table width="100%" border="0" align="center">
+  <tr>
+    <td style="padding: 16px;">
+      <h3>🚀 Automating Deployment: Zero-Downtime Java CI/CD Pipeline</h3>
+      <p>
+        End-to-end automated <strong>CI/CD delivery workflow</strong> for enterprise <strong>Java</strong> applications engineered for high velocity, resilience, and seamless continuous releases with <strong>Jenkins</strong> and <strong>Docker</strong>.
+      </p>
+      <ul>
+        <li><strong>Zero-Downtime Deployments</strong>: Integrated continuous deployment workflows using Docker containers to serve live production traffic without any end-user disruption or request dropping.</li>
+        <li><strong>90% Manual Time Reduction</strong>: Streamlined code validation, Maven packaging, containerization, and infrastructure release stages into a hands-off, deterministic execution sequence.</li>
+        <li><strong>Single Git Push Trigger</strong>: Codified automated webhooks where a single Git push initiates the full validation, build, security scan, and rolling container deployment lifecycle.</li>
+      </ul>
+      <p align="center">
+        <img src="assets/project-cicd.svg" width="100%" alt="Automated Java CI/CD Pipeline: Jenkins, Docker &amp; Zero-Downtime Architecture Diagram" />
+      </p>
+      <p align="center">
+        <a href="https://lnkd.in/p/gmvZNFsE" target="_blank">
+          <img src="https://img.shields.io/badge/🎬_Watch_CI%2FCD_Video_Demo-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060d1b" alt="Watch CI/CD Video Demo" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/jojohnoson/RegisterApp-Deployment-Automated-CI-CD-Pipeline" target="_blank">
+          <img src="https://img.shields.io/badge/💻_View_Source_Code-GitHub-111111?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=060d1b" alt="View Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Featured Project 4: Event Register App -->
 <table width="100%" border="0" align="center">
   <tr>
     <td style="padding: 16px;">
